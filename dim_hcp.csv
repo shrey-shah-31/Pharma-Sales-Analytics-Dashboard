@@ -1,0 +1,801 @@
+hcp_id,hcp_name,hcp_specialty,territory,region,rfm_segment,recency_days,frequency_txns,monetary_net_sales
+HCP-0001,Dr. Amber Osborne,Neurology,West-Rockies,West,High-Value Specialty Prescribers,1,142,1173130.05
+HCP-0002,Dr. Alyssa Smith,Internal Medicine,East-NewEngland,East,High-Value Specialty Prescribers,1,144,1154376.62
+HCP-0003,Dr. Mario Smith,Cardiology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),4,158,1302610.71
+HCP-0004,Dr. Sarah Koch,Cardiology,West-BayArea,West,Low-Volume Prescribers,16,129,902473.54
+HCP-0005,Dr. Marie Parker,Endocrinology,East-Appalachia,East,High-Value Specialty Prescribers,1,129,1080052.66
+HCP-0006,Dr. Brian Humphrey,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),2,175,1553079.9
+HCP-0007,Dr. Stacey Miller,Internal Medicine,North-Plains,North,Potential Growth Prescribers,2,151,983571.82
+HCP-0008,Dr. Todd Jones,Cardiology,North-Valley,North,Potential Growth Prescribers,1,144,948526.7
+HCP-0009,Dr. Kathleen Cannon,Oncology,East-Atlantic,East,Low-Volume Prescribers,1,126,901771.44
+HCP-0010,Dr. David Alvarez,Neurology,South-Gulf,South,Loyal High-Volume Prescribers,4,154,1103266.22
+HCP-0011,Dr. Andrea Baker,Endocrinology,North-Lakes,North,Low-Volume Prescribers,2,124,860145.44
+HCP-0012,Dr. Monique Henderson,Oncology,South-Delta,South,Champions (Tier 1 Key Opinion Leaders),1,166,1317838.15
+HCP-0013,Dr. Jason Ryan,Neurology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),2,165,1392710.14
+HCP-0014,Dr. Jessica Harris,Cardiology,East-Atlantic,East,Low-Volume Prescribers,9,111,793850.58
+HCP-0015,Dr. Larry Carney,Endocrinology,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),1,167,1222067.47
+HCP-0016,Dr. Debra Kim,Endocrinology,North-Valley,North,Loyal High-Volume Prescribers,13,160,1060045.43
+HCP-0017,Dr. Zachary Martinez,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,149,1201917.52
+HCP-0018,Dr. Jeffrey Morgan,Family Medicine,West-Desert,West,Potential Growth Prescribers,3,139,989651.11
+HCP-0019,Dr. Brianna Hall,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),1,159,1254718.05
+HCP-0020,Dr. Jeffrey Jones,Endocrinology,South-Piedmont,South,High-Value Specialty Prescribers,2,133,1120575.05
+HCP-0021,Dr. Crystal Perez,Cardiology,East-Atlantic,East,Low-Volume Prescribers,6,108,831641.46
+HCP-0022,Dr. Rebecca Heath,Cardiology,West-Northwest,West,Low-Volume Prescribers,2,127,1020175.17
+HCP-0023,Dr. Chad Young,Oncology,East-TriState,East,At-Risk / Lapsing Prescribers,4,148,926529.14
+HCP-0024,Dr. Elizabeth Lewis,Oncology,East-Atlantic,East,High-Value Specialty Prescribers,2,122,1079322.65
+HCP-0025,Dr. David Walls,Endocrinology,North-Valley,North,High-Value Specialty Prescribers,7,127,1058068.24
+HCP-0026,Dr. Ashley Kennedy,Family Medicine,West-Pacific,West,Potential Growth Prescribers,4,158,999370.11
+HCP-0027,Dr. Kristen Aguirre,Family Medicine,West-BayArea,West,High-Value Specialty Prescribers,7,138,1172649.93
+HCP-0028,Dr. James Davis,Endocrinology,West-Northwest,West,Low-Volume Prescribers,3,133,839950.75
+HCP-0029,Dr. Ryan Henderson,Cardiology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),6,150,1332000.59
+HCP-0030,Dr. Stuart Daniel,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,174,1420307.77
+HCP-0031,Dr. Emily Joyce,Neurology,South-Gulf,South,Potential Growth Prescribers,1,145,1051468.99
+HCP-0032,Dr. Corey Powell,Internal Medicine,South-Delta,South,Potential Growth Prescribers,8,156,973048.77
+HCP-0033,Dr. Matthew Hensley,Oncology,East-Atlantic,East,Low-Volume Prescribers,1,103,648378.7
+HCP-0034,Dr. John Lee,Cardiology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),14,174,1213608.09
+HCP-0035,Dr. Shane Henderson,Cardiology,West-Rockies,West,Loyal High-Volume Prescribers,8,158,1084920.09
+HCP-0036,Dr. Joshua Wright,Internal Medicine,North-Valley,North,Loyal High-Volume Prescribers,2,147,1063507.19
+HCP-0037,Dr. Sandra Ramos,Cardiology,West-Desert,West,Low-Volume Prescribers,2,169,923636.54
+HCP-0038,Dr. Michelle Pierce,Internal Medicine,East-Appalachia,East,High-Value Specialty Prescribers,8,143,1147624.49
+HCP-0039,Dr. Brent Kidd,Internal Medicine,North-Central,North,Loyal High-Volume Prescribers,1,160,1082117.48
+HCP-0040,Dr. Mary Novak,Neurology,North-Lakes,North,Low-Volume Prescribers,1,133,876237.21
+HCP-0041,Dr. Sara Allison,Family Medicine,East-NewEngland,East,High-Value Specialty Prescribers,1,122,1096451.9
+HCP-0042,Dr. Gabriel Tucker,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),9,190,1272163.52
+HCP-0043,Dr. Jason Morales,Oncology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),7,179,1314304.75
+HCP-0044,Dr. Brian Gray,Internal Medicine,East-NewEngland,East,Loyal High-Volume Prescribers,1,158,1072503.22
+HCP-0045,Dr. Tricia Baker,Family Medicine,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),3,170,1361111.19
+HCP-0046,Dr. Kristen Gibson,Cardiology,East-Appalachia,East,Loyal High-Volume Prescribers,2,147,1091039.69
+HCP-0047,Dr. Rodney Bernard,Internal Medicine,East-Metro,East,High-Value Specialty Prescribers,3,132,1062255.82
+HCP-0048,Dr. Wendy Peters,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,6,115,848334.79
+HCP-0049,Dr. Jennifer Moore,Endocrinology,South-Piedmont,South,Loyal High-Volume Prescribers,2,161,1098350.83
+HCP-0050,Dr. Kenneth Novak,Cardiology,North-Lakes,North,Low-Volume Prescribers,1,128,761869.72
+HCP-0051,Dr. Beth Daniels,Cardiology,East-NewEngland,East,Potential Growth Prescribers,3,143,1043856.74
+HCP-0052,Dr. Julie Brown,Oncology,East-Atlantic,East,Low-Volume Prescribers,21,103,843624.36
+HCP-0053,Dr. Breanna Shaw,Family Medicine,South-Gulf,South,Low-Volume Prescribers,1,133,887159.8
+HCP-0054,Dr. Melissa Moore,Neurology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),7,164,1265414.62
+HCP-0055,Dr. Susan Miller,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),4,172,1410401.8
+HCP-0056,Dr. Jacob Larson,Oncology,North-Valley,North,Loyal High-Volume Prescribers,3,152,1097643.48
+HCP-0057,Dr. Emma Young,Family Medicine,West-Desert,West,Loyal High-Volume Prescribers,1,162,1105623.44
+HCP-0058,Dr. David Zamora,Endocrinology,West-BayArea,West,Potential Growth Prescribers,2,141,971047.88
+HCP-0059,Dr. John Wheeler,Internal Medicine,North-Valley,North,Loyal High-Volume Prescribers,2,161,1096178.26
+HCP-0060,Dr. Christine Barnes,Family Medicine,East-Atlantic,East,Low-Volume Prescribers,1,102,674785.86
+HCP-0061,Dr. Brandy Mills,Internal Medicine,West-BayArea,West,At-Risk / Lapsing Prescribers,4,131,954362.95
+HCP-0062,Dr. Sarah Harris,Oncology,North-Lakes,North,High-Value Specialty Prescribers,5,140,1057182.59
+HCP-0063,Dr. Jennifer Allen,Oncology,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),6,157,1185525.22
+HCP-0064,Dr. Randy Powers,Internal Medicine,West-BayArea,West,Low-Volume Prescribers,2,121,894669.3
+HCP-0065,Dr. Kevin Stewart,Cardiology,East-Atlantic,East,Low-Volume Prescribers,7,107,801479.82
+HCP-0066,Dr. Karen Jones,Neurology,North-Plains,North,Low-Volume Prescribers,1,129,724740.95
+HCP-0067,Dr. Stephen Murillo,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,176,1573671.13
+HCP-0068,Dr. Wendy Jones,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),6,176,1383781.05
+HCP-0069,Dr. Jason Baker,Endocrinology,East-Appalachia,East,Potential Growth Prescribers,1,145,946086.64
+HCP-0070,Dr. Sarah Ibarra,Neurology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),2,165,1308827.41
+HCP-0071,Dr. Natasha Wood,Family Medicine,South-Gulf,South,High-Value Specialty Prescribers,2,138,1138901.89
+HCP-0072,Dr. Eric Bass,Neurology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,153,1284737.62
+HCP-0073,Dr. Jade Carr,Oncology,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),1,153,1327816.29
+HCP-0074,Dr. Vanessa Valdez,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,1,117,849857.15
+HCP-0075,Dr. Alan Montoya,Cardiology,South-Gulf,South,Potential Growth Prescribers,10,145,1004001.49
+HCP-0076,Dr. Kevin Alvarado,Family Medicine,North-Plains,North,Potential Growth Prescribers,4,159,1009889.12
+HCP-0077,Dr. Sheila Taylor,Cardiology,South-Highlands,South,Potential Growth Prescribers,5,144,1027866.87
+HCP-0078,Dr. Darrell Rodriguez,Family Medicine,North-Plains,North,Potential Growth Prescribers,5,145,963218.03
+HCP-0079,Dr. Angela Nelson,Endocrinology,West-Pacific,West,Loyal High-Volume Prescribers,3,160,1118032.22
+HCP-0080,Dr. Cassandra Robbins,Oncology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),1,156,1243841.43
+HCP-0081,Dr. James Walters,Neurology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),2,152,1182240.33
+HCP-0082,Dr. Joseph Freeman,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,1,107,752347.62
+HCP-0083,Dr. Rebecca Mathis,Cardiology,West-Desert,West,Potential Growth Prescribers,4,156,952074.54
+HCP-0084,Dr. Christopher Henderson,Oncology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),2,156,1269540.46
+HCP-0085,Dr. Joshua Smith,Cardiology,East-Metro,East,Low-Volume Prescribers,2,130,1014168.64
+HCP-0086,Dr. Kellie Walsh,Endocrinology,North-Metro,North,Loyal High-Volume Prescribers,3,147,1066075.9
+HCP-0087,Dr. Jose Figueroa,Endocrinology,North-Plains,North,Low-Volume Prescribers,2,156,892830.12
+HCP-0088,Dr. Andrea Patterson,Endocrinology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),2,170,1304863.22
+HCP-0089,Dr. Alec Jones,Endocrinology,South-Delta,South,Low-Volume Prescribers,2,155,892133.2
+HCP-0090,Dr. Nicole Mckee,Family Medicine,North-Lakes,North,Potential Growth Prescribers,1,136,1027466.01
+HCP-0091,Dr. Amy Davenport,Oncology,North-Lakes,North,High-Value Specialty Prescribers,3,127,1103684.79
+HCP-0092,Dr. Brandi Hernandez,Family Medicine,West-BayArea,West,At-Risk / Lapsing Prescribers,17,138,837195.76
+HCP-0093,Dr. David Parker,Oncology,East-TriState,East,Potential Growth Prescribers,2,136,956489.89
+HCP-0094,Dr. Rachel Flynn,Internal Medicine,East-Metro,East,Low-Volume Prescribers,2,136,925529.45
+HCP-0095,Dr. Michelle Nolan,Endocrinology,North-Plains,North,Low-Volume Prescribers,1,139,891975.31
+HCP-0096,Dr. Jason Wright,Cardiology,West-Northwest,West,At-Risk / Lapsing Prescribers,3,127,942237.47
+HCP-0097,Dr. Curtis Deleon,Family Medicine,East-NewEngland,East,Loyal High-Volume Prescribers,2,156,1098434.46
+HCP-0098,Dr. Nicole Russell,Oncology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,159,1236027.08
+HCP-0099,Dr. Christine Moore,Internal Medicine,West-Northwest,West,Potential Growth Prescribers,6,146,1047276.98
+HCP-0100,Dr. Sarah Hancock,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,168,1358829.67
+HCP-0101,Dr. Theresa Cochran,Endocrinology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),4,182,1455173.16
+HCP-0102,Dr. Nicole Johnson,Cardiology,West-Northwest,West,Potential Growth Prescribers,1,139,961776.78
+HCP-0103,Dr. Jill Cook,Endocrinology,North-Metro,North,Potential Growth Prescribers,3,142,1043857.07
+HCP-0104,Dr. Sarah Pham,Cardiology,East-TriState,East,At-Risk / Lapsing Prescribers,7,119,1001836.74
+HCP-0105,Dr. Michelle Cochran,Cardiology,North-Valley,North,At-Risk / Lapsing Prescribers,3,140,867919.2
+HCP-0106,Dr. Joseph Cobb,Endocrinology,East-TriState,East,Champions (Tier 1 Key Opinion Leaders),1,146,1315662.01
+HCP-0107,Dr. Daniel Brennan,Endocrinology,North-Plains,North,Potential Growth Prescribers,8,149,1052264.71
+HCP-0108,Dr. Michele Walker,Internal Medicine,North-Plains,North,Potential Growth Prescribers,6,150,960031.66
+HCP-0109,Dr. Lisa Stevens,Oncology,East-Appalachia,East,At-Risk / Lapsing Prescribers,8,130,959711.02
+HCP-0110,Dr. Kevin Pope,Endocrinology,West-BayArea,West,High-Value Specialty Prescribers,7,139,1109363.62
+HCP-0111,Dr. Jeremy Johnson,Endocrinology,East-Metro,East,Champions (Tier 1 Key Opinion Leaders),11,153,1419089.78
+HCP-0112,Dr. James Murphy,Cardiology,South-Delta,South,Potential Growth Prescribers,1,170,1054396.71
+HCP-0113,Dr. Michelle Rasmussen,Oncology,North-Plains,North,Low-Volume Prescribers,3,128,864098.7
+HCP-0114,Dr. Joshua May,Family Medicine,South-Piedmont,South,Loyal High-Volume Prescribers,2,155,1149769.97
+HCP-0115,Dr. Ricardo Zavala,Family Medicine,East-NewEngland,East,Low-Volume Prescribers,2,115,940912.16
+HCP-0116,Dr. Amanda Crosby,Internal Medicine,East-Atlantic,East,At-Risk / Lapsing Prescribers,6,131,992075.87
+HCP-0117,Dr. Darrell Waller,Endocrinology,South-Highlands,South,Loyal High-Volume Prescribers,1,152,1101990.31
+HCP-0118,Dr. Gregory Estes,Cardiology,East-Appalachia,East,Potential Growth Prescribers,1,153,1042934.61
+HCP-0119,Dr. Joseph Rodriguez,Oncology,North-Metro,North,High-Value Specialty Prescribers,5,133,1182008.8
+HCP-0120,Dr. Ryan Chandler,Endocrinology,North-Valley,North,Potential Growth Prescribers,1,157,1030754.54
+HCP-0121,Dr. Lee Obrien,Family Medicine,West-Rockies,West,Loyal High-Volume Prescribers,1,154,1104177.85
+HCP-0122,Dr. William Cruz,Family Medicine,South-Delta,South,Potential Growth Prescribers,3,164,969367.66
+HCP-0123,Dr. Barbara Scott,Cardiology,West-Northwest,West,Champions (Tier 1 Key Opinion Leaders),6,145,1194922.21
+HCP-0124,Dr. Jeanne Smith,Neurology,West-Rockies,West,High-Value Specialty Prescribers,1,142,1198194.89
+HCP-0125,Dr. Sara Ryan,Family Medicine,West-BayArea,West,High-Value Specialty Prescribers,8,138,1258499.93
+HCP-0126,Dr. Jennifer Harmon,Oncology,South-Delta,South,Champions (Tier 1 Key Opinion Leaders),2,173,1225506.27
+HCP-0127,Dr. Emily Diaz,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),13,176,1279814.94
+HCP-0128,Dr. Chad Beck,Cardiology,East-Metro,East,Low-Volume Prescribers,1,102,869884.46
+HCP-0129,Dr. Mark Edwards,Family Medicine,East-TriState,East,High-Value Specialty Prescribers,8,131,1158604.86
+HCP-0130,Dr. Melanie Cortez,Endocrinology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),2,158,1244360.83
+HCP-0131,Dr. Kevin Parker,Endocrinology,West-Rockies,West,Potential Growth Prescribers,7,145,969013.95
+HCP-0132,Dr. Ricky Powell,Cardiology,East-Atlantic,East,Low-Volume Prescribers,10,114,825704.29
+HCP-0133,Dr. Kenneth Martinez,Family Medicine,East-Appalachia,East,Potential Growth Prescribers,8,155,1002588.89
+HCP-0134,Dr. Robert Bentley,Endocrinology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),2,151,1353045.51
+HCP-0135,Dr. Erica Orr,Neurology,South-Gulf,South,High-Value Specialty Prescribers,4,139,1076383.82
+HCP-0136,Dr. Christina Turner,Internal Medicine,West-Desert,West,Low-Volume Prescribers,2,123,631301.68
+HCP-0137,Dr. Amy Smith,Family Medicine,West-Northwest,West,Potential Growth Prescribers,1,147,959141.81
+HCP-0138,Dr. Justin Jordan,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,8,105,638627.95
+HCP-0139,Dr. Bethany Pena,Internal Medicine,East-TriState,East,Potential Growth Prescribers,5,148,1000531.65
+HCP-0140,Dr. Steven Ramos,Internal Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,191,1421394.81
+HCP-0141,Dr. Jason Kennedy,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),5,184,1515678.16
+HCP-0142,Dr. Rachel Flynn,Neurology,North-Central,North,Loyal High-Volume Prescribers,9,160,1136908.91
+HCP-0143,Dr. Gene Miller,Endocrinology,North-Metro,North,Low-Volume Prescribers,7,127,904100.77
+HCP-0144,Dr. Zachary Schultz,Neurology,East-Atlantic,East,Low-Volume Prescribers,3,113,807667.53
+HCP-0145,Dr. Matthew Cardenas,Oncology,East-Metro,East,High-Value Specialty Prescribers,3,140,1151816.5
+HCP-0146,Dr. Karen Chambers,Cardiology,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),6,147,1183579.5
+HCP-0147,Dr. Jeffrey Gonzalez,Internal Medicine,South-Delta,South,Low-Volume Prescribers,2,128,712953.52
+HCP-0148,Dr. Andrew Sanchez,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,131,978559.28
+HCP-0149,Dr. Thomas Atkinson,Internal Medicine,North-Plains,North,Low-Volume Prescribers,1,145,898769.49
+HCP-0150,Dr. Charles Perry,Endocrinology,North-Central,North,At-Risk / Lapsing Prescribers,7,136,897275.71
+HCP-0151,Dr. Crystal Lee,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,127,890687.71
+HCP-0152,Dr. Heather Snyder,Endocrinology,East-NewEngland,East,High-Value Specialty Prescribers,7,141,1170271.1
+HCP-0153,Dr. John Douglas,Internal Medicine,West-Rockies,West,Potential Growth Prescribers,5,161,1008364.64
+HCP-0154,Dr. Adam Potter,Endocrinology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),3,186,1340944.95
+HCP-0155,Dr. Kayla Rodriguez,Internal Medicine,South-Gulf,South,High-Value Specialty Prescribers,2,144,1094589.3
+HCP-0156,Dr. Ronald Thompson,Neurology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),3,157,1277874.31
+HCP-0157,Dr. Susan Holmes,Cardiology,West-Rockies,West,Loyal High-Volume Prescribers,6,154,1085734.87
+HCP-0158,Dr. Brent Wright,Internal Medicine,East-TriState,East,Champions (Tier 1 Key Opinion Leaders),3,164,1220444.95
+HCP-0159,Dr. Melinda Bryant,Neurology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),1,160,1356665.65
+HCP-0160,Dr. Laurie Contreras,Cardiology,South-Gulf,South,Champions (Tier 1 Key Opinion Leaders),7,157,1310148.14
+HCP-0161,Dr. Vanessa Larson,Endocrinology,East-Appalachia,East,Potential Growth Prescribers,1,136,944820.3
+HCP-0162,Dr. Stephanie Vance,Endocrinology,South-Gulf,South,Champions (Tier 1 Key Opinion Leaders),14,148,1239344.4
+HCP-0163,Dr. Cheyenne Ball,Family Medicine,East-Appalachia,East,Potential Growth Prescribers,1,135,978014.81
+HCP-0164,Dr. William Rivas,Endocrinology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),6,155,1222110.18
+HCP-0165,Dr. Amy Merritt,Neurology,South-Gulf,South,Potential Growth Prescribers,6,139,998000.44
+HCP-0166,Dr. Julia Wells,Neurology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),7,167,1219172.1
+HCP-0167,Dr. Jonathon Wright,Cardiology,North-Lakes,North,Potential Growth Prescribers,8,136,1020528.82
+HCP-0168,Dr. Dana Cannon,Cardiology,North-Metro,North,Potential Growth Prescribers,4,134,964250.0
+HCP-0169,Dr. Adrienne Sims,Family Medicine,East-Appalachia,East,Low-Volume Prescribers,2,119,743396.45
+HCP-0170,Dr. Joshua Jones,Neurology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),3,157,1271421.27
+HCP-0171,Dr. Justin Nelson,Neurology,South-Highlands,South,Potential Growth Prescribers,6,140,1019117.15
+HCP-0172,Dr. Luis Fernandez,Cardiology,South-Piedmont,South,Low-Volume Prescribers,1,127,881572.75
+HCP-0173,Dr. Devon Hall,Neurology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),1,156,1187509.26
+HCP-0174,Dr. Heather Mccarthy,Endocrinology,North-Metro,North,Loyal High-Volume Prescribers,7,151,1175067.11
+HCP-0175,Dr. Caleb Russell,Neurology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),6,164,1221446.58
+HCP-0176,Dr. Amy Perry,Endocrinology,West-BayArea,West,Low-Volume Prescribers,10,121,757667.81
+HCP-0177,Dr. Jamie Fisher,Endocrinology,North-Valley,North,High-Value Specialty Prescribers,8,142,1185328.04
+HCP-0178,Dr. Rebecca Silva,Cardiology,East-NewEngland,East,Loyal High-Volume Prescribers,3,146,1059449.04
+HCP-0179,Dr. Heather Gates,Cardiology,East-Metro,East,Loyal High-Volume Prescribers,3,144,1088971.39
+HCP-0180,Dr. Kathy James,Family Medicine,East-Metro,East,At-Risk / Lapsing Prescribers,3,122,1006281.83
+HCP-0181,Dr. Adam Bell,Neurology,East-NewEngland,East,Loyal High-Volume Prescribers,1,162,1136066.29
+HCP-0182,Dr. Karen Castaneda,Neurology,East-Metro,East,At-Risk / Lapsing Prescribers,6,132,991252.27
+HCP-0183,Dr. Stephanie Barnes,Family Medicine,South-Delta,South,Loyal High-Volume Prescribers,3,153,1160109.94
+HCP-0184,Dr. Julie Payne,Family Medicine,West-Northwest,West,Low-Volume Prescribers,2,130,953115.3
+HCP-0185,Dr. Carrie Walker,Cardiology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),1,153,1255279.06
+HCP-0186,Dr. Jeffrey Graham,Cardiology,North-Metro,North,High-Value Specialty Prescribers,22,142,1062316.05
+HCP-0187,Dr. Anthony Rogers,Cardiology,East-TriState,East,High-Value Specialty Prescribers,1,137,1065733.26
+HCP-0188,Dr. Erin Powell,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),8,161,1202658.38
+HCP-0189,Dr. Frederick Mcdonald,Internal Medicine,North-Metro,North,High-Value Specialty Prescribers,3,139,1086674.65
+HCP-0190,Dr. David Dean,Internal Medicine,South-Gulf,South,Potential Growth Prescribers,3,148,1034757.27
+HCP-0191,Dr. Anthony Long,Cardiology,East-TriState,East,Champions (Tier 1 Key Opinion Leaders),1,145,1252521.09
+HCP-0192,Dr. Anne Johnson,Endocrinology,West-BayArea,West,At-Risk / Lapsing Prescribers,3,128,1015956.64
+HCP-0193,Dr. Dawn Taylor,Internal Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,171,1191103.23
+HCP-0194,Dr. Steven Williams,Oncology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),2,166,1288135.26
+HCP-0195,Dr. Nicholas Lewis,Internal Medicine,West-Desert,West,Potential Growth Prescribers,6,158,1032302.46
+HCP-0196,Dr. Mark Juarez,Family Medicine,South-Piedmont,South,High-Value Specialty Prescribers,3,135,1136114.38
+HCP-0197,Dr. Nicholas Walton,Neurology,West-Pacific,West,Potential Growth Prescribers,5,144,1005645.65
+HCP-0198,Dr. Marie King,Oncology,West-Northwest,West,At-Risk / Lapsing Prescribers,5,133,891380.07
+HCP-0199,Dr. Christopher Smith,Family Medicine,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),6,148,1217190.78
+HCP-0200,Dr. Amber Cooke,Internal Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,166,1223136.4
+HCP-0201,Dr. Michael Santos,Cardiology,West-Northwest,West,High-Value Specialty Prescribers,1,138,1088815.62
+HCP-0202,Dr. Kimberly Pearson,Endocrinology,West-Desert,West,Low-Volume Prescribers,24,132,918378.89
+HCP-0203,Dr. Karen Herring,Oncology,West-BayArea,West,Low-Volume Prescribers,1,123,825491.61
+HCP-0204,Dr. James Smith,Neurology,North-Metro,North,Potential Growth Prescribers,2,161,1038976.83
+HCP-0205,Dr. Elijah Martinez,Family Medicine,North-Central,North,Champions (Tier 1 Key Opinion Leaders),8,175,1342579.14
+HCP-0206,Dr. Elizabeth Elliott,Oncology,West-Rockies,West,At-Risk / Lapsing Prescribers,4,143,921602.97
+HCP-0207,Dr. Jeffery Lyons,Family Medicine,East-Metro,East,Low-Volume Prescribers,1,135,862968.03
+HCP-0208,Dr. Katie Jackson,Endocrinology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),8,166,1298220.0
+HCP-0209,Dr. Catherine Adkins,Oncology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,192,1366699.78
+HCP-0210,Dr. Danny Weiss,Endocrinology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),1,146,1281851.77
+HCP-0211,Dr. Tami Rodriguez,Internal Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),6,181,1384358.07
+HCP-0212,Dr. Anthony Collins,Cardiology,East-Atlantic,East,Low-Volume Prescribers,4,124,847304.2
+HCP-0213,Dr. Erica Rubio,Cardiology,East-Metro,East,At-Risk / Lapsing Prescribers,9,128,1017183.39
+HCP-0214,Dr. Randy Espinoza,Neurology,West-BayArea,West,Low-Volume Prescribers,3,115,884193.5
+HCP-0215,Dr. Charles Vaughn,Neurology,North-Lakes,North,Loyal High-Volume Prescribers,1,148,1171877.41
+HCP-0216,Dr. Courtney Garcia,Cardiology,West-Pacific,West,Loyal High-Volume Prescribers,3,150,1090948.82
+HCP-0217,Dr. Kendra Jefferson,Endocrinology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),1,157,1280701.79
+HCP-0218,Dr. Caroline Martinez,Cardiology,East-TriState,East,Potential Growth Prescribers,1,139,1025413.86
+HCP-0219,Dr. Tonya Patton,Cardiology,West-Desert,West,Potential Growth Prescribers,14,163,968214.21
+HCP-0220,Dr. Michael Patterson,Internal Medicine,North-Central,North,Loyal High-Volume Prescribers,2,168,1163673.8
+HCP-0221,Dr. Mitchell Hunter,Cardiology,West-Rockies,West,Low-Volume Prescribers,1,130,984953.41
+HCP-0222,Dr. Matthew Atkinson,Neurology,South-Delta,South,Potential Growth Prescribers,6,156,1034174.69
+HCP-0223,Dr. Lynn Garcia,Internal Medicine,West-Northwest,West,High-Value Specialty Prescribers,6,136,1139905.76
+HCP-0224,Dr. Susan Reid,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),2,178,1357726.06
+HCP-0225,Dr. Maria Zimmerman,Neurology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),9,182,1320347.04
+HCP-0226,Dr. Ryan Gross,Internal Medicine,East-Metro,East,Low-Volume Prescribers,2,140,941133.13
+HCP-0227,Dr. Tammy Nelson,Neurology,West-Northwest,West,Low-Volume Prescribers,6,127,923991.43
+HCP-0228,Dr. Lindsey Medina,Cardiology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,161,1323605.09
+HCP-0229,Dr. Timothy Graham,Cardiology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),8,154,1283566.83
+HCP-0230,Dr. Jessica Adams,Cardiology,North-Lakes,North,Low-Volume Prescribers,4,109,756057.79
+HCP-0231,Dr. Melissa Rivas,Cardiology,East-NewEngland,East,Potential Growth Prescribers,4,133,976999.66
+HCP-0232,Dr. Christopher Keith,Internal Medicine,East-Metro,East,High-Value Specialty Prescribers,6,142,1079014.34
+HCP-0233,Dr. John Marshall,Family Medicine,South-Delta,South,At-Risk / Lapsing Prescribers,6,142,809357.5
+HCP-0234,Dr. Cheryl Gray,Oncology,West-BayArea,West,High-Value Specialty Prescribers,2,130,1097389.35
+HCP-0235,Dr. Anthony Rosales,Oncology,West-Rockies,West,Loyal High-Volume Prescribers,7,159,1099987.82
+HCP-0236,Dr. Hunter Lewis,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),6,146,1231354.25
+HCP-0237,Dr. Lauren Peterson,Cardiology,West-BayArea,West,Low-Volume Prescribers,1,112,778634.79
+HCP-0238,Dr. Nicole Haynes,Endocrinology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),27,144,1359896.62
+HCP-0239,Dr. Joshua Smith,Cardiology,East-Metro,East,At-Risk / Lapsing Prescribers,10,136,852152.9
+HCP-0240,Dr. Stacy Miller,Family Medicine,East-Atlantic,East,Low-Volume Prescribers,9,115,791796.27
+HCP-0241,Dr. Jennifer Freeman,Endocrinology,East-TriState,East,High-Value Specialty Prescribers,1,130,1169237.78
+HCP-0242,Dr. Katherine Vaughn,Neurology,East-NewEngland,East,High-Value Specialty Prescribers,8,126,1066043.44
+HCP-0243,Dr. Debbie Henry,Endocrinology,West-Northwest,West,High-Value Specialty Prescribers,1,138,1056883.27
+HCP-0244,Dr. Laura Davis,Cardiology,South-Gulf,South,High-Value Specialty Prescribers,6,138,1141930.97
+HCP-0245,Dr. Jeffrey Holt,Family Medicine,West-BayArea,West,Low-Volume Prescribers,3,108,789128.58
+HCP-0246,Dr. Kevin Perkins,Neurology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),7,153,1208796.45
+HCP-0247,Dr. Thomas Schmidt,Oncology,North-Valley,North,Loyal High-Volume Prescribers,14,147,1150688.66
+HCP-0248,Dr. Ronald Reese,Neurology,South-Delta,South,Loyal High-Volume Prescribers,2,176,1175323.92
+HCP-0249,Dr. Mark Warner,Endocrinology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),3,199,1601195.63
+HCP-0250,Dr. Joseph King,Family Medicine,West-Rockies,West,Loyal High-Volume Prescribers,2,168,1151596.89
+HCP-0251,Dr. David Lee,Endocrinology,East-Atlantic,East,At-Risk / Lapsing Prescribers,3,116,1033544.35
+HCP-0252,Dr. David Herrera,Oncology,West-Desert,West,At-Risk / Lapsing Prescribers,4,147,905091.63
+HCP-0253,Dr. Kathleen Lopez,Endocrinology,North-Valley,North,Loyal High-Volume Prescribers,2,148,1098770.91
+HCP-0254,Dr. Javier Washington,Family Medicine,West-Desert,West,At-Risk / Lapsing Prescribers,11,142,807956.38
+HCP-0255,Dr. Jenny Bray,Family Medicine,East-Appalachia,East,Potential Growth Prescribers,6,156,1032609.29
+HCP-0256,Dr. Alicia Campbell,Endocrinology,South-Piedmont,South,Low-Volume Prescribers,1,119,881965.36
+HCP-0257,Dr. Craig Lee,Family Medicine,West-BayArea,West,At-Risk / Lapsing Prescribers,6,122,978655.04
+HCP-0258,Dr. Jeremy White,Cardiology,North-Metro,North,Potential Growth Prescribers,3,143,1016940.71
+HCP-0259,Dr. Alexis Ferguson,Neurology,West-Desert,West,Potential Growth Prescribers,1,154,1011430.09
+HCP-0260,Dr. Joshua Mccann,Family Medicine,North-Lakes,North,Low-Volume Prescribers,4,129,846558.82
+HCP-0261,Dr. Angela Terry,Endocrinology,South-Delta,South,Potential Growth Prescribers,1,154,950919.75
+HCP-0262,Dr. David Oneill,Family Medicine,West-Desert,West,Low-Volume Prescribers,1,157,894904.31
+HCP-0263,Dr. Travis Salas,Internal Medicine,South-Highlands,South,Low-Volume Prescribers,3,119,758666.51
+HCP-0264,Dr. Audrey Harrison,Neurology,South-Gulf,South,Low-Volume Prescribers,1,148,871686.44
+HCP-0265,Dr. Scott Lopez,Cardiology,West-BayArea,West,High-Value Specialty Prescribers,22,131,1059141.29
+HCP-0266,Dr. Brett Everett,Internal Medicine,West-Rockies,West,Loyal High-Volume Prescribers,1,163,1172050.35
+HCP-0267,Dr. Tim Short,Family Medicine,East-Metro,East,High-Value Specialty Prescribers,1,126,1071037.67
+HCP-0268,Dr. Richard Jones,Internal Medicine,West-Northwest,West,Low-Volume Prescribers,6,123,941762.18
+HCP-0269,Dr. Crystal Brown,Internal Medicine,South-Gulf,South,Potential Growth Prescribers,1,154,1029444.36
+HCP-0270,Dr. Edward Hart,Neurology,North-Lakes,North,Champions (Tier 1 Key Opinion Leaders),9,147,1198721.7
+HCP-0271,Dr. Kevin Mcknight,Family Medicine,East-NewEngland,East,Low-Volume Prescribers,2,127,906472.0
+HCP-0272,Dr. David Duran,Oncology,East-TriState,East,Potential Growth Prescribers,2,135,1027363.96
+HCP-0273,Dr. Catherine Gibbs,Endocrinology,South-Delta,South,Potential Growth Prescribers,1,170,1018826.86
+HCP-0274,Dr. Jeremiah Mills,Cardiology,East-TriState,East,Potential Growth Prescribers,1,145,951704.18
+HCP-0275,Dr. Shannon Ramos,Endocrinology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),2,162,1369622.79
+HCP-0276,Dr. Michelle Branch,Endocrinology,West-BayArea,West,High-Value Specialty Prescribers,3,128,1219097.2
+HCP-0277,Dr. Kevin Oliver,Endocrinology,East-Metro,East,At-Risk / Lapsing Prescribers,6,134,832254.16
+HCP-0278,Dr. Chelsea Singh,Family Medicine,South-Piedmont,South,Potential Growth Prescribers,1,142,1010403.65
+HCP-0279,Dr. Stacey Clark,Cardiology,North-Metro,North,High-Value Specialty Prescribers,2,143,1134087.79
+HCP-0280,Dr. Jason Guerrero,Internal Medicine,East-NewEngland,East,Potential Growth Prescribers,1,133,953275.18
+HCP-0281,Dr. Eric Thompson,Internal Medicine,North-Plains,North,Potential Growth Prescribers,4,151,969875.68
+HCP-0282,Dr. Charles Smith,Cardiology,North-Metro,North,Loyal High-Volume Prescribers,2,160,1083286.07
+HCP-0283,Dr. Shannon Wheeler,Neurology,East-Metro,East,Potential Growth Prescribers,5,133,1022048.64
+HCP-0284,Dr. Kelly Hall,Neurology,South-Piedmont,South,Low-Volume Prescribers,8,122,905966.04
+HCP-0285,Dr. Jasmine Warner,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,181,1177561.95
+HCP-0286,Dr. Shawn Mcdaniel,Endocrinology,West-Pacific,West,Loyal High-Volume Prescribers,3,161,1056253.42
+HCP-0287,Dr. Sandra French,Neurology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),5,145,1180776.1
+HCP-0288,Dr. Colleen Guerrero,Family Medicine,West-Rockies,West,Low-Volume Prescribers,2,130,1012063.92
+HCP-0289,Dr. Sarah Coleman,Cardiology,West-Northwest,West,Low-Volume Prescribers,6,111,659326.22
+HCP-0290,Dr. Amy Holland,Neurology,South-Gulf,South,High-Value Specialty Prescribers,19,117,1125157.17
+HCP-0291,Dr. Rebekah Serrano,Neurology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,164,1360047.89
+HCP-0292,Dr. Charles Martin,Neurology,South-Coast,South,Loyal High-Volume Prescribers,2,177,1165318.41
+HCP-0293,Dr. Kyle Curry,Endocrinology,North-Plains,North,Loyal High-Volume Prescribers,14,150,1139627.03
+HCP-0294,Dr. Ashley Roberts,Cardiology,North-Lakes,North,High-Value Specialty Prescribers,2,136,1061434.6
+HCP-0295,Dr. David Barker,Cardiology,North-Lakes,North,Low-Volume Prescribers,2,130,961559.72
+HCP-0296,Dr. Holly Bender,Cardiology,East-NewEngland,East,Low-Volume Prescribers,1,129,971370.04
+HCP-0297,Dr. Vincent Snyder,Cardiology,South-Coast,South,Loyal High-Volume Prescribers,1,160,1135335.62
+HCP-0298,Dr. Christopher Williams,Family Medicine,South-Highlands,South,Loyal High-Volume Prescribers,1,158,1171747.91
+HCP-0299,Dr. Ryan Morris,Endocrinology,North-Valley,North,Loyal High-Volume Prescribers,8,156,1093776.14
+HCP-0300,Dr. John Davis,Cardiology,North-Metro,North,Potential Growth Prescribers,9,133,953240.14
+HCP-0301,Dr. Suzanne Huff,Cardiology,South-Gulf,South,Low-Volume Prescribers,2,127,931548.44
+HCP-0302,Dr. Barbara Sampson,Cardiology,North-Central,North,Loyal High-Volume Prescribers,1,148,1064473.21
+HCP-0303,Dr. Yvonne Chambers,Cardiology,South-Highlands,South,Low-Volume Prescribers,2,143,864608.15
+HCP-0304,Dr. Joseph Williams,Oncology,South-Delta,South,Potential Growth Prescribers,1,160,1002539.59
+HCP-0305,Dr. Katelyn Ruiz,Endocrinology,East-TriState,East,Low-Volume Prescribers,2,132,913384.97
+HCP-0306,Dr. Denise Moon,Cardiology,West-Pacific,West,Loyal High-Volume Prescribers,6,159,1135830.01
+HCP-0307,Dr. Howard Richards,Endocrinology,North-Central,North,Loyal High-Volume Prescribers,3,157,1166767.38
+HCP-0308,Dr. Cynthia Vasquez,Family Medicine,West-Northwest,West,At-Risk / Lapsing Prescribers,10,133,876099.79
+HCP-0309,Dr. Christopher Bailey,Cardiology,South-Gulf,South,Loyal High-Volume Prescribers,5,168,1149098.09
+HCP-0310,Dr. Mathew Santiago,Internal Medicine,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),6,160,1191335.26
+HCP-0311,Dr. Mia Rivera,Cardiology,North-Plains,North,Potential Growth Prescribers,3,145,1054796.77
+HCP-0312,Dr. Heather Roberts,Neurology,South-Highlands,South,Loyal High-Volume Prescribers,3,144,1064803.03
+HCP-0313,Dr. Sierra Cervantes,Endocrinology,South-Delta,South,Potential Growth Prescribers,1,157,958942.08
+HCP-0314,Dr. Andrea Gibson,Neurology,East-Appalachia,East,Potential Growth Prescribers,6,134,997008.01
+HCP-0315,Dr. Leonard Morris,Cardiology,South-Gulf,South,Low-Volume Prescribers,1,126,1010621.23
+HCP-0316,Dr. Tara Powell,Internal Medicine,West-BayArea,West,Loyal High-Volume Prescribers,1,148,1171576.87
+HCP-0317,Dr. Xavier Travis,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,3,112,728090.82
+HCP-0318,Dr. Diane Daniels,Cardiology,South-Highlands,South,At-Risk / Lapsing Prescribers,9,134,867284.51
+HCP-0319,Dr. Robert Lopez,Endocrinology,North-Plains,North,Potential Growth Prescribers,1,149,990434.88
+HCP-0320,Dr. Michael Avila,Oncology,South-Delta,South,Potential Growth Prescribers,3,176,1025792.83
+HCP-0321,Dr. Colleen Wolf,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,169,1179323.14
+HCP-0322,Dr. James Dunn,Oncology,South-Coast,South,Loyal High-Volume Prescribers,1,159,1141744.81
+HCP-0323,Dr. Sara Kim,Cardiology,West-BayArea,West,High-Value Specialty Prescribers,4,133,1177496.89
+HCP-0324,Dr. Helen Martinez,Endocrinology,East-TriState,East,Low-Volume Prescribers,9,124,862040.01
+HCP-0325,Dr. Teresa Lynch,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,8,113,787010.05
+HCP-0326,Dr. John Moore,Cardiology,East-Atlantic,East,Low-Volume Prescribers,2,108,735444.31
+HCP-0327,Dr. Andrea Tran,Endocrinology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),4,145,1229730.58
+HCP-0328,Dr. Christopher Gay,Neurology,North-Lakes,North,At-Risk / Lapsing Prescribers,3,127,952161.65
+HCP-0329,Dr. Robin Murray,Oncology,South-Delta,South,Loyal High-Volume Prescribers,2,180,1106564.02
+HCP-0330,Dr. David Collier,Endocrinology,East-Metro,East,Potential Growth Prescribers,7,132,1044890.39
+HCP-0331,Dr. Tyrone Moran,Neurology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,147,1180751.94
+HCP-0332,Dr. William Hill,Endocrinology,North-Plains,North,Low-Volume Prescribers,3,119,832265.03
+HCP-0333,Dr. Mary Baird,Cardiology,North-Lakes,North,High-Value Specialty Prescribers,7,141,1121255.98
+HCP-0334,Dr. John Arnold,Oncology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),2,164,1330644.75
+HCP-0335,Dr. Patrick Weeks,Cardiology,South-Gulf,South,Potential Growth Prescribers,2,134,1016316.4
+HCP-0336,Dr. William Suarez,Cardiology,West-Northwest,West,Low-Volume Prescribers,1,130,948286.9
+HCP-0337,Dr. Michelle Hill,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,113,974550.55
+HCP-0338,Dr. Kristy Perry,Neurology,West-Rockies,West,Loyal High-Volume Prescribers,1,146,1055192.73
+HCP-0339,Dr. Sarah Romero,Cardiology,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),1,181,1232088.57
+HCP-0340,Dr. Lori Campbell,Family Medicine,West-BayArea,West,Low-Volume Prescribers,1,123,910749.44
+HCP-0341,Dr. Kenneth Matthews,Internal Medicine,South-Gulf,South,High-Value Specialty Prescribers,2,137,1120487.26
+HCP-0342,Dr. Yolanda Burns,Cardiology,East-TriState,East,Loyal High-Volume Prescribers,2,152,1074707.44
+HCP-0343,Dr. Edgar Ryan,Family Medicine,East-Metro,East,Low-Volume Prescribers,15,112,780213.24
+HCP-0344,Dr. Michael Arnold,Endocrinology,South-Gulf,South,Champions (Tier 1 Key Opinion Leaders),2,151,1190941.23
+HCP-0345,Dr. Amy Gibson,Internal Medicine,North-Valley,North,Loyal High-Volume Prescribers,4,152,1093866.36
+HCP-0346,Dr. Marc Lopez,Oncology,South-Piedmont,South,Low-Volume Prescribers,3,114,768021.33
+HCP-0347,Dr. Heidi Armstrong,Endocrinology,North-Plains,North,Potential Growth Prescribers,1,133,954350.23
+HCP-0348,Dr. Jesus Rowe,Cardiology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),4,146,1230684.3
+HCP-0349,Dr. Bradley Garner,Oncology,East-Metro,East,Low-Volume Prescribers,1,124,893202.38
+HCP-0350,Dr. Janet Shepherd,Cardiology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),3,157,1341734.0
+HCP-0351,Dr. Paul Alvarado,Endocrinology,North-Metro,North,High-Value Specialty Prescribers,2,139,1142758.51
+HCP-0352,Dr. Lori Pollard,Oncology,North-Lakes,North,Loyal High-Volume Prescribers,3,159,1134480.86
+HCP-0353,Dr. Tyler Johnson,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),3,169,1550596.14
+HCP-0354,Dr. Wayne Lawrence,Oncology,West-Desert,West,Champions (Tier 1 Key Opinion Leaders),13,150,1181080.63
+HCP-0355,Dr. Molly Sawyer,Oncology,East-TriState,East,Loyal High-Volume Prescribers,6,146,1113720.6
+HCP-0356,Dr. Scott Fox,Internal Medicine,East-Metro,East,High-Value Specialty Prescribers,1,140,1204639.52
+HCP-0357,Dr. Stephen Bowen,Neurology,South-Piedmont,South,Loyal High-Volume Prescribers,8,161,1118584.08
+HCP-0358,Dr. Robert Pena,Oncology,West-Northwest,West,Low-Volume Prescribers,4,118,763783.28
+HCP-0359,Dr. Eric Harrison,Internal Medicine,West-Rockies,West,Loyal High-Volume Prescribers,13,147,1112369.41
+HCP-0360,Dr. Tanya Morgan,Cardiology,East-Appalachia,East,High-Value Specialty Prescribers,2,138,1099593.03
+HCP-0361,Dr. Heather Santos,Family Medicine,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),6,147,1180032.49
+HCP-0362,Dr. Melissa Phelps,Cardiology,East-Appalachia,East,Potential Growth Prescribers,7,142,1030062.9
+HCP-0363,Dr. Michele James,Endocrinology,West-Desert,West,Potential Growth Prescribers,5,156,961061.78
+HCP-0364,Dr. Levi Higgins,Cardiology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,158,1251856.41
+HCP-0365,Dr. Katherine Brennan,Oncology,North-Valley,North,Loyal High-Volume Prescribers,1,156,1102883.0
+HCP-0366,Dr. Barry Jones,Cardiology,West-Desert,West,Champions (Tier 1 Key Opinion Leaders),3,159,1179124.43
+HCP-0367,Dr. Crystal Mccall,Endocrinology,East-Atlantic,East,At-Risk / Lapsing Prescribers,17,111,950493.02
+HCP-0368,Dr. Wendy Francis,Neurology,West-BayArea,West,Champions (Tier 1 Key Opinion Leaders),1,154,1396801.81
+HCP-0369,Dr. Ryan Garcia,Neurology,West-Desert,West,Low-Volume Prescribers,4,126,742921.27
+HCP-0370,Dr. Cynthia Brennan,Neurology,South-Delta,South,Potential Growth Prescribers,2,158,958156.38
+HCP-0371,Dr. Scott Benson,Neurology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,191,1413900.41
+HCP-0372,Dr. Rebecca Williams,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,3,102,849969.53
+HCP-0373,Dr. Laura Carter,Oncology,West-Northwest,West,Low-Volume Prescribers,1,122,711352.17
+HCP-0374,Dr. Nicholas Thomas,Neurology,East-Atlantic,East,Low-Volume Prescribers,1,124,933015.84
+HCP-0375,Dr. Amanda Knight,Family Medicine,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),1,181,1318283.38
+HCP-0376,Dr. Laura Jackson,Cardiology,West-Northwest,West,Low-Volume Prescribers,8,101,864493.12
+HCP-0377,Dr. Christian Pitts,Endocrinology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,185,1529742.65
+HCP-0378,Dr. Christine Allen,Cardiology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),5,160,1312000.35
+HCP-0379,Dr. Roberta Thomas,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,1,107,840666.85
+HCP-0380,Dr. Steven King,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),17,178,1273349.05
+HCP-0381,Dr. Jonathan Smith,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),3,173,1485660.95
+HCP-0382,Dr. Linda Santana,Oncology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),10,152,1229822.0
+HCP-0383,Dr. Erica Moore,Cardiology,East-Metro,East,At-Risk / Lapsing Prescribers,7,126,986220.84
+HCP-0384,Dr. Scott Reed,Internal Medicine,West-BayArea,West,Low-Volume Prescribers,8,112,908297.33
+HCP-0385,Dr. Briana Fowler,Oncology,West-Desert,West,At-Risk / Lapsing Prescribers,11,151,884471.05
+HCP-0386,Dr. Roger Wright,Cardiology,West-BayArea,West,At-Risk / Lapsing Prescribers,7,114,953316.89
+HCP-0387,Dr. Megan Gonzalez,Cardiology,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),7,156,1341851.91
+HCP-0388,Dr. Paul Webb,Internal Medicine,North-Lakes,North,Potential Growth Prescribers,2,137,954767.82
+HCP-0389,Dr. John Armstrong,Oncology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),7,155,1231625.11
+HCP-0390,Dr. Bailey Haney,Internal Medicine,East-NewEngland,East,High-Value Specialty Prescribers,1,141,1117460.1
+HCP-0391,Dr. Kenneth Spence,Endocrinology,East-Atlantic,East,High-Value Specialty Prescribers,2,123,1152949.07
+HCP-0392,Dr. Dominique Hill,Oncology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,182,1455772.05
+HCP-0393,Dr. Ashlee Jennings,Cardiology,West-Northwest,West,Low-Volume Prescribers,1,121,860749.88
+HCP-0394,Dr. Julie Williams,Endocrinology,South-Piedmont,South,Low-Volume Prescribers,1,134,905344.63
+HCP-0395,Dr. Catherine Crawford,Neurology,West-Northwest,West,Low-Volume Prescribers,2,117,681897.64
+HCP-0396,Dr. Rebecca Mitchell,Cardiology,East-Metro,East,Low-Volume Prescribers,1,125,1024977.62
+HCP-0397,Dr. Lauren Lawson,Endocrinology,East-NewEngland,East,Loyal High-Volume Prescribers,2,153,1087250.18
+HCP-0398,Dr. Michael Fields,Cardiology,West-BayArea,West,Low-Volume Prescribers,1,134,934673.5
+HCP-0399,Dr. Christine Byrd,Family Medicine,East-Metro,East,Low-Volume Prescribers,1,127,990844.61
+HCP-0400,Dr. Jennifer Hopkins,Endocrinology,West-Northwest,West,High-Value Specialty Prescribers,5,126,1168025.88
+HCP-0401,Dr. Mary Fuller,Internal Medicine,North-Lakes,North,Low-Volume Prescribers,1,123,980712.59
+HCP-0402,Dr. Rebecca Lucas,Endocrinology,East-NewEngland,East,Low-Volume Prescribers,1,130,784820.36
+HCP-0403,Dr. Kyle Alexander,Neurology,East-Appalachia,East,Potential Growth Prescribers,1,149,961717.17
+HCP-0404,Dr. Bethany Oconnor,Family Medicine,West-Northwest,West,At-Risk / Lapsing Prescribers,4,131,1047942.8
+HCP-0405,Dr. Christopher Phillips,Neurology,North-Lakes,North,At-Risk / Lapsing Prescribers,8,135,804175.94
+HCP-0406,Dr. Julie Thompson,Family Medicine,West-Desert,West,Potential Growth Prescribers,3,141,990721.36
+HCP-0407,Dr. David Ryan,Cardiology,West-Northwest,West,Low-Volume Prescribers,2,115,762573.97
+HCP-0408,Dr. Teresa Schmidt,Family Medicine,East-Atlantic,East,Champions (Tier 1 Key Opinion Leaders),9,146,1252528.53
+HCP-0409,Dr. Robin Rivas,Endocrinology,South-Piedmont,South,Low-Volume Prescribers,2,129,990614.94
+HCP-0410,Dr. Jonathan Summers,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,181,1363766.9
+HCP-0411,Dr. Timothy Drake,Internal Medicine,North-Metro,North,At-Risk / Lapsing Prescribers,7,138,883737.3
+HCP-0412,Dr. Julie Morgan,Oncology,South-Piedmont,South,High-Value Specialty Prescribers,1,141,1118381.01
+HCP-0413,Dr. Darius Mccarty,Endocrinology,West-Northwest,West,At-Risk / Lapsing Prescribers,7,146,940076.4
+HCP-0414,Dr. Donald Levy,Oncology,South-Coast,South,Loyal High-Volume Prescribers,3,166,1155053.35
+HCP-0415,Dr. Michelle Ramsey,Internal Medicine,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),2,146,1190166.83
+HCP-0416,Dr. Tina Coffey,Oncology,South-Highlands,South,Loyal High-Volume Prescribers,3,159,1058526.18
+HCP-0417,Dr. Linda Diaz,Cardiology,North-Valley,North,Loyal High-Volume Prescribers,1,144,1116852.36
+HCP-0418,Dr. Krystal Smith,Neurology,South-Piedmont,South,High-Value Specialty Prescribers,1,138,1111771.93
+HCP-0419,Dr. Amanda Gibson,Family Medicine,South-Delta,South,Loyal High-Volume Prescribers,9,150,1082742.13
+HCP-0420,Dr. Emily Chambers,Endocrinology,East-NewEngland,East,Potential Growth Prescribers,2,133,1005367.22
+HCP-0421,Dr. Brenda Carson,Cardiology,East-TriState,East,High-Value Specialty Prescribers,1,142,1080683.51
+HCP-0422,Dr. Shelby Rodriguez,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,162,1407325.25
+HCP-0423,Dr. Jesus Johnson,Cardiology,South-Piedmont,South,High-Value Specialty Prescribers,2,141,1132563.33
+HCP-0424,Dr. Nicole Hoffman,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),6,152,1235190.0
+HCP-0425,Dr. Rose Walker,Endocrinology,East-Metro,East,Low-Volume Prescribers,3,128,879810.38
+HCP-0426,Dr. Bryan Colon,Cardiology,East-Appalachia,East,Potential Growth Prescribers,1,140,1006672.86
+HCP-0427,Dr. Regina Turner,Oncology,West-Northwest,West,Potential Growth Prescribers,3,146,958973.88
+HCP-0428,Dr. Ricky Taylor,Oncology,North-Valley,North,Potential Growth Prescribers,8,145,949578.15
+HCP-0429,Dr. Sophia Torres,Cardiology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,164,1213874.15
+HCP-0430,Dr. Travis Davis,Endocrinology,North-Central,North,Loyal High-Volume Prescribers,8,167,1123651.91
+HCP-0431,Dr. Paige Taylor,Internal Medicine,South-Highlands,South,High-Value Specialty Prescribers,2,142,1235467.36
+HCP-0432,Dr. Shawn Santiago,Endocrinology,South-Piedmont,South,Low-Volume Prescribers,1,132,908034.98
+HCP-0433,Dr. Julia Bautista,Neurology,East-Metro,East,Low-Volume Prescribers,1,126,962976.17
+HCP-0434,Dr. Robert Newton,Cardiology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),5,147,1186700.28
+HCP-0435,Dr. Eric Perry,Family Medicine,West-Northwest,West,Potential Growth Prescribers,2,132,985705.02
+HCP-0436,Dr. Corey Burns,Neurology,South-Gulf,South,Potential Growth Prescribers,4,143,1051156.6
+HCP-0437,Dr. Ricky Lynn,Endocrinology,South-Piedmont,South,Potential Growth Prescribers,6,133,959173.41
+HCP-0438,Dr. Antonio Wood,Cardiology,North-Valley,North,High-Value Specialty Prescribers,1,139,1124379.28
+HCP-0439,Dr. Scott Sampson,Internal Medicine,East-TriState,East,High-Value Specialty Prescribers,9,133,1070010.11
+HCP-0440,Dr. Melissa Garcia,Cardiology,North-Plains,North,Potential Growth Prescribers,3,153,989721.98
+HCP-0441,Dr. Gina Stephens,Oncology,East-TriState,East,High-Value Specialty Prescribers,9,134,1084900.9
+HCP-0442,Dr. Tiffany Howard,Cardiology,North-Lakes,North,Low-Volume Prescribers,3,129,879113.47
+HCP-0443,Dr. Raymond Lopez,Internal Medicine,North-Valley,North,Loyal High-Volume Prescribers,2,175,1101420.4
+HCP-0444,Dr. David Charles,Endocrinology,North-Plains,North,At-Risk / Lapsing Prescribers,6,138,895067.08
+HCP-0445,Dr. Shawn Bates,Cardiology,North-Plains,North,Loyal High-Volume Prescribers,9,153,1062873.83
+HCP-0446,Dr. Darlene Harper,Internal Medicine,West-BayArea,West,Potential Growth Prescribers,4,136,992024.05
+HCP-0447,Dr. Andrew Buchanan,Internal Medicine,South-Piedmont,South,High-Value Specialty Prescribers,4,130,1164778.0
+HCP-0448,Dr. John Martinez,Endocrinology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),7,161,1404142.71
+HCP-0449,Dr. Anne Jones,Oncology,West-Northwest,West,Potential Growth Prescribers,1,138,1051393.68
+HCP-0450,Dr. Kathy Clark,Cardiology,North-Central,North,Loyal High-Volume Prescribers,1,145,1099152.54
+HCP-0451,Dr. Jason Kane,Oncology,North-Metro,North,Loyal High-Volume Prescribers,6,151,1168717.76
+HCP-0452,Dr. Mark Hernandez,Cardiology,East-Metro,East,At-Risk / Lapsing Prescribers,16,131,962583.85
+HCP-0453,Dr. Rachel Smith,Neurology,West-BayArea,West,Low-Volume Prescribers,2,130,869219.22
+HCP-0454,Dr. Michele Thomas,Internal Medicine,South-Coast,South,Potential Growth Prescribers,7,164,996331.11
+HCP-0455,Dr. David King,Oncology,South-Delta,South,Low-Volume Prescribers,2,149,892093.54
+HCP-0456,Dr. Greg Guerrero,Endocrinology,South-Gulf,South,Potential Growth Prescribers,2,144,1044153.61
+HCP-0457,Dr. Anthony Smith,Endocrinology,South-Piedmont,South,High-Value Specialty Prescribers,3,132,1179355.21
+HCP-0458,Dr. Kristy Young,Endocrinology,South-Piedmont,South,Potential Growth Prescribers,8,134,950261.83
+HCP-0459,Dr. Mario Thompson,Oncology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),4,150,1228302.3
+HCP-0460,Dr. Brian Harmon,Internal Medicine,North-Lakes,North,High-Value Specialty Prescribers,16,139,1132779.31
+HCP-0461,Dr. Alicia Reese,Family Medicine,South-Highlands,South,Low-Volume Prescribers,1,161,940434.8
+HCP-0462,Dr. Thomas Strickland,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),2,175,1409576.06
+HCP-0463,Dr. William Rodriguez,Neurology,North-Metro,North,Loyal High-Volume Prescribers,7,145,1151618.39
+HCP-0464,Dr. William Dougherty,Oncology,East-Atlantic,East,Low-Volume Prescribers,2,131,1033585.3
+HCP-0465,Dr. Bradley Logan,Endocrinology,South-Gulf,South,High-Value Specialty Prescribers,9,141,1099450.26
+HCP-0466,Dr. Michelle Boyd,Cardiology,West-Desert,West,Loyal High-Volume Prescribers,3,153,1068622.65
+HCP-0467,Dr. Stephen Maynard,Family Medicine,East-Atlantic,East,Low-Volume Prescribers,1,114,871087.53
+HCP-0468,Dr. Bruce Mendoza,Cardiology,South-Gulf,South,High-Value Specialty Prescribers,7,141,1117802.98
+HCP-0469,Dr. Richard Parks,Cardiology,West-Northwest,West,Low-Volume Prescribers,2,123,1016506.5
+HCP-0470,Dr. Tracy Browning,Cardiology,East-Metro,East,Low-Volume Prescribers,2,124,946186.18
+HCP-0471,Dr. Charles Miller,Oncology,East-Metro,East,Potential Growth Prescribers,2,140,992567.97
+HCP-0472,Dr. Charlene Jones,Endocrinology,West-Desert,West,Low-Volume Prescribers,3,126,901947.07
+HCP-0473,Dr. Joshua Schultz,Oncology,North-Metro,North,Low-Volume Prescribers,5,130,814327.65
+HCP-0474,Dr. Amy Nguyen,Cardiology,West-Northwest,West,Low-Volume Prescribers,9,124,830638.47
+HCP-0475,Dr. Virginia Schmidt,Family Medicine,East-NewEngland,East,Loyal High-Volume Prescribers,1,147,1117604.36
+HCP-0476,Dr. Shawn Jacobs,Endocrinology,East-TriState,East,Low-Volume Prescribers,1,134,919476.33
+HCP-0477,Dr. Cory Miles,Cardiology,West-Northwest,West,Low-Volume Prescribers,2,125,890366.11
+HCP-0478,Dr. Melissa Curtis,Neurology,South-Delta,South,Potential Growth Prescribers,1,156,981527.11
+HCP-0479,Dr. Kayla Le,Endocrinology,North-Metro,North,High-Value Specialty Prescribers,1,142,1196690.64
+HCP-0480,Dr. Jason Hayes,Cardiology,East-Appalachia,East,High-Value Specialty Prescribers,7,138,1115466.2
+HCP-0481,Dr. Jeremy Morgan,Cardiology,East-NewEngland,East,Low-Volume Prescribers,9,130,907534.04
+HCP-0482,Dr. Shawn Perry,Oncology,South-Delta,South,Loyal High-Volume Prescribers,2,177,1099222.01
+HCP-0483,Dr. Cody Simmons,Oncology,South-Delta,South,Low-Volume Prescribers,1,146,885364.13
+HCP-0484,Dr. Elizabeth Brooks,Internal Medicine,South-Gulf,South,Champions (Tier 1 Key Opinion Leaders),2,160,1218863.97
+HCP-0485,Dr. Elijah Leblanc,Endocrinology,South-Highlands,South,Loyal High-Volume Prescribers,6,145,1084658.02
+HCP-0486,Dr. Carlos Decker,Endocrinology,West-Northwest,West,Champions (Tier 1 Key Opinion Leaders),2,165,1194001.12
+HCP-0487,Dr. Christopher Davis,Internal Medicine,North-Plains,North,Loyal High-Volume Prescribers,2,152,1161672.18
+HCP-0488,Dr. Joanne Cain,Cardiology,South-Gulf,South,High-Value Specialty Prescribers,1,142,1141618.31
+HCP-0489,Dr. Angela Willis,Endocrinology,North-Metro,North,Potential Growth Prescribers,2,142,964929.84
+HCP-0490,Dr. Anna Rivera,Neurology,East-Metro,East,High-Value Specialty Prescribers,3,143,1167471.45
+HCP-0491,Dr. David Gomez,Oncology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),4,167,1193116.09
+HCP-0492,Dr. Elizabeth Christensen,Cardiology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),3,168,1251488.46
+HCP-0493,Dr. Miranda Griffith,Internal Medicine,East-Atlantic,East,High-Value Specialty Prescribers,6,133,1157914.95
+HCP-0494,Dr. Tanya Burke,Endocrinology,South-Piedmont,South,Potential Growth Prescribers,2,140,1041844.26
+HCP-0495,Dr. Michael Lane,Oncology,West-Desert,West,Loyal High-Volume Prescribers,1,147,1070650.67
+HCP-0496,Dr. Jason Douglas,Internal Medicine,East-TriState,East,Potential Growth Prescribers,6,145,961805.98
+HCP-0497,Dr. Jeffrey Rodriguez,Oncology,East-Metro,East,High-Value Specialty Prescribers,3,143,1064073.65
+HCP-0498,Dr. Megan Richardson,Neurology,North-Central,North,Loyal High-Volume Prescribers,2,155,1131905.3
+HCP-0499,Dr. Kathryn Andrews,Family Medicine,North-Lakes,North,Champions (Tier 1 Key Opinion Leaders),1,147,1237437.35
+HCP-0500,Dr. Lindsay Bruce,Family Medicine,South-Highlands,South,Loyal High-Volume Prescribers,2,152,1176228.97
+HCP-0501,Dr. Terri Cardenas,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,128,794703.68
+HCP-0502,Dr. Christina Day,Family Medicine,East-Appalachia,East,Loyal High-Volume Prescribers,8,152,1058807.63
+HCP-0503,Dr. Anthony Hickman,Internal Medicine,East-TriState,East,At-Risk / Lapsing Prescribers,3,127,956758.24
+HCP-0504,Dr. Maria Adams,Endocrinology,West-BayArea,West,At-Risk / Lapsing Prescribers,3,118,1019433.44
+HCP-0505,Dr. Henry Park,Oncology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,145,1211659.93
+HCP-0506,Dr. Kyle Morgan,Oncology,West-Rockies,West,Potential Growth Prescribers,5,152,976111.57
+HCP-0507,Dr. Adam Kane,Family Medicine,North-Metro,North,At-Risk / Lapsing Prescribers,5,133,912635.14
+HCP-0508,Dr. Ashley Morales,Internal Medicine,West-Northwest,West,Loyal High-Volume Prescribers,1,145,1134140.13
+HCP-0509,Dr. Donald Schultz,Cardiology,East-Metro,East,Loyal High-Volume Prescribers,1,153,1141006.29
+HCP-0510,Dr. Anthony Reese,Family Medicine,North-Metro,North,Low-Volume Prescribers,1,142,894818.92
+HCP-0511,Dr. Jason Barnes,Endocrinology,South-Gulf,South,Potential Growth Prescribers,13,143,1000178.1
+HCP-0512,Dr. Matthew Wood,Family Medicine,West-Rockies,West,Potential Growth Prescribers,1,142,977403.26
+HCP-0513,Dr. Jennifer Frank,Family Medicine,South-Highlands,South,Loyal High-Volume Prescribers,8,144,1094995.17
+HCP-0514,Dr. Ashley Miller,Family Medicine,West-BayArea,West,At-Risk / Lapsing Prescribers,11,128,950021.96
+HCP-0515,Dr. Brian Moore,Oncology,West-Desert,West,At-Risk / Lapsing Prescribers,3,141,883367.82
+HCP-0516,Dr. Christine Craig,Cardiology,East-Metro,East,Potential Growth Prescribers,6,133,951640.55
+HCP-0517,Dr. Joseph Stanley,Oncology,North-Lakes,North,Low-Volume Prescribers,1,131,900916.27
+HCP-0518,Dr. Todd Ramos,Cardiology,East-TriState,East,Loyal High-Volume Prescribers,1,144,1060628.88
+HCP-0519,Dr. Joshua Fischer,Oncology,East-Appalachia,East,At-Risk / Lapsing Prescribers,6,152,898669.65
+HCP-0520,Dr. Daniel Jordan,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,171,1261750.34
+HCP-0521,Dr. Justin Gregory,Endocrinology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),3,178,1393851.5
+HCP-0522,Dr. Tommy Estrada,Oncology,East-NewEngland,East,High-Value Specialty Prescribers,1,142,1102897.39
+HCP-0523,Dr. Brandon Foster,Family Medicine,East-NewEngland,East,Low-Volume Prescribers,6,123,894445.6
+HCP-0524,Dr. Carol Smith,Oncology,North-Metro,North,Potential Growth Prescribers,2,144,1027737.82
+HCP-0525,Dr. Kevin Clark,Family Medicine,North-Metro,North,At-Risk / Lapsing Prescribers,7,130,996009.44
+HCP-0526,Dr. Derrick Scott,Family Medicine,East-Atlantic,East,Low-Volume Prescribers,3,116,766536.65
+HCP-0527,Dr. Mark Smith,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,151,1364257.67
+HCP-0528,Dr. Julie Thompson,Family Medicine,South-Delta,South,Loyal High-Volume Prescribers,1,162,1092027.01
+HCP-0529,Dr. Omar Padilla,Internal Medicine,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),3,161,1327383.29
+HCP-0530,Dr. Vincent Whitaker,Neurology,East-NewEngland,East,Potential Growth Prescribers,3,144,1027592.98
+HCP-0531,Dr. Linda Jones,Family Medicine,West-Rockies,West,Low-Volume Prescribers,8,126,911366.62
+HCP-0532,Dr. Michelle Williams,Internal Medicine,South-Piedmont,South,At-Risk / Lapsing Prescribers,6,131,954537.01
+HCP-0533,Dr. Andrew Morse,Neurology,East-Appalachia,East,Potential Growth Prescribers,1,149,987367.45
+HCP-0534,Dr. Michelle Johnston,Oncology,North-Lakes,North,At-Risk / Lapsing Prescribers,8,138,900813.39
+HCP-0535,Dr. Ashley Mckinney,Neurology,South-Gulf,South,Potential Growth Prescribers,1,141,1052025.66
+HCP-0536,Dr. Robert Wilson,Oncology,North-Plains,North,At-Risk / Lapsing Prescribers,3,147,939845.32
+HCP-0537,Dr. Andrew Nguyen,Cardiology,North-Metro,North,Potential Growth Prescribers,1,137,1008411.68
+HCP-0538,Dr. Laurie Montgomery,Family Medicine,South-Piedmont,South,High-Value Specialty Prescribers,3,138,1130156.07
+HCP-0539,Dr. Marilyn Gillespie,Neurology,East-TriState,East,High-Value Specialty Prescribers,1,133,1234986.94
+HCP-0540,Dr. Christopher Richard,Oncology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,156,1179788.86
+HCP-0541,Dr. John Chapman,Internal Medicine,North-Central,North,Champions (Tier 1 Key Opinion Leaders),4,177,1387535.51
+HCP-0542,Dr. Alexandria Foster,Neurology,West-BayArea,West,Low-Volume Prescribers,1,113,900239.02
+HCP-0543,Dr. Kyle Morgan,Family Medicine,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,182,1235199.53
+HCP-0544,Dr. Mason Jackson,Endocrinology,North-Valley,North,Loyal High-Volume Prescribers,6,157,1141487.47
+HCP-0545,Dr. William Wilson,Family Medicine,North-Plains,North,Low-Volume Prescribers,2,132,703118.93
+HCP-0546,Dr. William Bullock,Family Medicine,East-TriState,East,Champions (Tier 1 Key Opinion Leaders),2,153,1211246.17
+HCP-0547,Dr. Michael Luna,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,5,99,783902.16
+HCP-0548,Dr. Lori Briggs,Oncology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),3,161,1241824.42
+HCP-0549,Dr. Joel Thomas,Oncology,North-Valley,North,Potential Growth Prescribers,3,152,1045259.45
+HCP-0550,Dr. James Morrison,Internal Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,182,1486398.42
+HCP-0551,Dr. Kathleen Rios,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,173,1260034.69
+HCP-0552,Dr. Gregory Mejia,Family Medicine,West-Northwest,West,Champions (Tier 1 Key Opinion Leaders),3,163,1334549.51
+HCP-0553,Dr. Troy Webster,Family Medicine,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),1,162,1185704.85
+HCP-0554,Dr. Kathleen Cole,Neurology,West-Pacific,West,Low-Volume Prescribers,2,145,935924.65
+HCP-0555,Dr. Sandra Cunningham,Endocrinology,North-Lakes,North,Loyal High-Volume Prescribers,1,147,1116397.36
+HCP-0556,Dr. Cynthia Weber,Internal Medicine,North-Plains,North,Low-Volume Prescribers,1,133,907803.64
+HCP-0557,Dr. Michelle Burton,Oncology,East-Atlantic,East,Low-Volume Prescribers,8,119,826086.46
+HCP-0558,Dr. Edward Jones,Endocrinology,East-Metro,East,Potential Growth Prescribers,2,146,1039481.21
+HCP-0559,Dr. Scott Turner,Cardiology,West-BayArea,West,High-Value Specialty Prescribers,1,124,1114748.34
+HCP-0560,Dr. Joshua Brown,Oncology,North-Lakes,North,High-Value Specialty Prescribers,2,138,1178174.33
+HCP-0561,Dr. William Collins,Family Medicine,West-Rockies,West,Potential Growth Prescribers,2,152,1045057.2
+HCP-0562,Dr. Shannon Brown,Family Medicine,West-Desert,West,Potential Growth Prescribers,6,146,1048618.65
+HCP-0563,Dr. Marie Jones,Endocrinology,East-Metro,East,Low-Volume Prescribers,6,125,854027.01
+HCP-0564,Dr. Michelle Wyatt,Cardiology,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),1,154,1188738.38
+HCP-0565,Dr. Christina Hunter,Neurology,South-Gulf,South,Potential Growth Prescribers,3,159,1031084.91
+HCP-0566,Dr. Steven Spencer,Internal Medicine,East-Atlantic,East,Champions (Tier 1 Key Opinion Leaders),6,153,1212822.89
+HCP-0567,Dr. Latoya Huang,Cardiology,North-Plains,North,Low-Volume Prescribers,2,132,847500.31
+HCP-0568,Dr. Shannon Pacheco,Endocrinology,North-Central,North,Loyal High-Volume Prescribers,2,154,1159323.75
+HCP-0569,Dr. Denise Morris,Family Medicine,East-Atlantic,East,Low-Volume Prescribers,8,125,838248.97
+HCP-0570,Dr. Thomas Hernandez,Neurology,East-Metro,East,High-Value Specialty Prescribers,3,135,1253429.94
+HCP-0571,Dr. Bryan Garcia,Internal Medicine,South-Coast,South,Loyal High-Volume Prescribers,1,156,1082744.73
+HCP-0572,Dr. Rachel Cooper,Endocrinology,East-Metro,East,Low-Volume Prescribers,2,125,933472.5
+HCP-0573,Dr. Jennifer Wagner,Oncology,West-BayArea,West,Champions (Tier 1 Key Opinion Leaders),7,145,1184435.49
+HCP-0574,Dr. Gerald Wright,Internal Medicine,East-TriState,East,Potential Growth Prescribers,4,149,1027307.55
+HCP-0575,Dr. Samuel Gonzales,Family Medicine,West-BayArea,West,Low-Volume Prescribers,3,112,752721.71
+HCP-0576,Dr. Alexandra Moore,Internal Medicine,West-Desert,West,At-Risk / Lapsing Prescribers,7,148,933377.83
+HCP-0577,Dr. Nathan Campbell,Endocrinology,East-TriState,East,Low-Volume Prescribers,1,138,884128.09
+HCP-0578,Dr. Riley Morgan,Endocrinology,East-Appalachia,East,Loyal High-Volume Prescribers,1,159,1089654.27
+HCP-0579,Dr. Carla Mccormick,Cardiology,West-BayArea,West,Low-Volume Prescribers,1,125,870235.61
+HCP-0580,Dr. Deborah Jones,Family Medicine,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),1,157,1263924.11
+HCP-0581,Dr. Cody Gregory,Internal Medicine,North-Lakes,North,Potential Growth Prescribers,1,140,1015269.78
+HCP-0582,Dr. Justin Cummings,Oncology,East-Appalachia,East,Potential Growth Prescribers,3,135,1018882.58
+HCP-0583,Dr. Diane Escobar,Cardiology,West-Desert,West,Potential Growth Prescribers,1,149,958545.27
+HCP-0584,Dr. Morgan Cook,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,1,84,591397.78
+HCP-0585,Dr. Brandi Thomas,Cardiology,South-Gulf,South,High-Value Specialty Prescribers,1,141,1078545.98
+HCP-0586,Dr. Michael Ponce,Endocrinology,West-Rockies,West,Potential Growth Prescribers,8,137,1006546.1
+HCP-0587,Dr. Holly Myers,Endocrinology,South-Gulf,South,Loyal High-Volume Prescribers,1,144,1173497.79
+HCP-0588,Dr. Brooke Hurley,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,5,126,802031.77
+HCP-0589,Dr. Kyle Bennett,Internal Medicine,North-Lakes,North,Low-Volume Prescribers,2,143,916304.73
+HCP-0590,Dr. Latasha Li,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,1,101,775380.57
+HCP-0591,Dr. Elizabeth Calderon,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,176,1314335.07
+HCP-0592,Dr. Joanne Jennings,Endocrinology,West-Northwest,West,High-Value Specialty Prescribers,1,133,1129650.67
+HCP-0593,Dr. Alicia Lucas,Cardiology,West-Northwest,West,Loyal High-Volume Prescribers,7,144,1170995.46
+HCP-0594,Dr. Rodney Cox,Endocrinology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),2,164,1262446.82
+HCP-0595,Dr. Michael White,Oncology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),2,151,1259615.12
+HCP-0596,Dr. Jason Meza,Cardiology,East-Metro,East,Low-Volume Prescribers,9,128,939842.65
+HCP-0597,Dr. Tom Perez,Oncology,East-NewEngland,East,Loyal High-Volume Prescribers,6,148,1145135.52
+HCP-0598,Dr. Devin Jones,Cardiology,West-BayArea,West,Potential Growth Prescribers,3,140,1028609.82
+HCP-0599,Dr. Megan Garcia,Family Medicine,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),1,151,1324374.66
+HCP-0600,Dr. Kelli Conley,Internal Medicine,North-Lakes,North,At-Risk / Lapsing Prescribers,4,126,946983.55
+HCP-0601,Dr. Nicole Johnson,Internal Medicine,North-Metro,North,Potential Growth Prescribers,1,137,948510.2
+HCP-0602,Dr. Matthew Miranda,Cardiology,South-Coast,South,Loyal High-Volume Prescribers,1,161,1159047.04
+HCP-0603,Dr. David Bennett,Neurology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),3,150,1240187.46
+HCP-0604,Dr. Francis Guerra,Endocrinology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,161,1320638.96
+HCP-0605,Dr. Kellie Lamb,Oncology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),7,175,1227712.19
+HCP-0606,Dr. Gabriel Kim,Neurology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),3,162,1407693.18
+HCP-0607,Dr. Robert Rhodes,Cardiology,West-Pacific,West,Loyal High-Volume Prescribers,8,169,1149169.62
+HCP-0608,Dr. John Wallace,Endocrinology,North-Plains,North,Loyal High-Volume Prescribers,2,156,1118839.92
+HCP-0609,Dr. Justin Goodman,Cardiology,East-TriState,East,At-Risk / Lapsing Prescribers,4,132,880015.95
+HCP-0610,Dr. Shane Ferguson,Endocrinology,South-Gulf,South,High-Value Specialty Prescribers,1,138,1089853.37
+HCP-0611,Dr. Kyle Stokes,Family Medicine,North-Lakes,North,Low-Volume Prescribers,4,125,820403.97
+HCP-0612,Dr. Taylor Conley,Neurology,West-Northwest,West,At-Risk / Lapsing Prescribers,7,136,884419.74
+HCP-0613,Dr. Micheal Valentine,Neurology,East-NewEngland,East,Potential Growth Prescribers,2,135,1019162.49
+HCP-0614,Dr. Tracey Murray,Neurology,South-Gulf,South,Low-Volume Prescribers,1,125,782174.13
+HCP-0615,Dr. Juan Reyes,Family Medicine,South-Piedmont,South,Champions (Tier 1 Key Opinion Leaders),1,150,1190823.14
+HCP-0616,Dr. Allison Burch,Family Medicine,North-Plains,North,At-Risk / Lapsing Prescribers,6,140,807983.3
+HCP-0617,Dr. Lisa Solis,Oncology,North-Metro,North,High-Value Specialty Prescribers,2,135,1096036.07
+HCP-0618,Dr. Devon Wright,Endocrinology,South-Delta,South,At-Risk / Lapsing Prescribers,3,144,838494.23
+HCP-0619,Dr. Danielle Sawyer,Family Medicine,South-Highlands,South,Potential Growth Prescribers,6,150,1036976.64
+HCP-0620,Dr. Angela Garcia,Family Medicine,North-Valley,North,Loyal High-Volume Prescribers,11,148,1066086.12
+HCP-0621,Dr. Meghan Rosales,Family Medicine,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),10,190,1307643.25
+HCP-0622,Dr. Justin Hines,Internal Medicine,West-BayArea,West,High-Value Specialty Prescribers,7,122,1108765.22
+HCP-0623,Dr. Joshua Whitehead,Internal Medicine,East-NewEngland,East,Loyal High-Volume Prescribers,6,151,1149956.88
+HCP-0624,Dr. Dylan Kim,Cardiology,North-Metro,North,Low-Volume Prescribers,2,143,885382.61
+HCP-0625,Dr. Stacey Walker,Family Medicine,East-NewEngland,East,At-Risk / Lapsing Prescribers,3,128,1037539.52
+HCP-0626,Dr. Shannon Bailey,Internal Medicine,South-Highlands,South,Potential Growth Prescribers,2,146,944352.64
+HCP-0627,Dr. Anthony Brown,Cardiology,North-Lakes,North,High-Value Specialty Prescribers,1,128,1080005.7
+HCP-0628,Dr. Wayne Young,Endocrinology,South-Piedmont,South,Potential Growth Prescribers,1,144,946619.41
+HCP-0629,Dr. Virginia Brooks,Oncology,South-Highlands,South,High-Value Specialty Prescribers,2,136,1163664.94
+HCP-0630,Dr. Anthony Galvan,Cardiology,East-Metro,East,Low-Volume Prescribers,3,130,820112.05
+HCP-0631,Dr. Mary Santos,Oncology,West-Pacific,West,Potential Growth Prescribers,3,150,951692.46
+HCP-0632,Dr. Lacey Taylor,Oncology,South-Highlands,South,Loyal High-Volume Prescribers,2,146,1114669.12
+HCP-0633,Dr. Justin Gallegos,Cardiology,North-Central,North,Potential Growth Prescribers,1,141,1010416.78
+HCP-0634,Dr. Heather Taylor,Neurology,South-Highlands,South,Potential Growth Prescribers,3,148,1013233.59
+HCP-0635,Dr. Janice West,Endocrinology,South-Gulf,South,Champions (Tier 1 Key Opinion Leaders),1,165,1398618.86
+HCP-0636,Dr. Adam Miller,Endocrinology,West-BayArea,West,Champions (Tier 1 Key Opinion Leaders),1,157,1193446.04
+HCP-0637,Dr. Jonathan Conley,Internal Medicine,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),1,156,1250476.64
+HCP-0638,Dr. Ana Acosta,Neurology,North-Lakes,North,Potential Growth Prescribers,7,142,1016705.44
+HCP-0639,Dr. Allison Rodriguez,Oncology,West-Rockies,West,Loyal High-Volume Prescribers,4,153,1123100.89
+HCP-0640,Dr. Keith Turner,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,124,937336.09
+HCP-0641,Dr. Brandon Barnes,Endocrinology,East-Appalachia,East,Loyal High-Volume Prescribers,6,158,1174902.24
+HCP-0642,Dr. Laura Bryant,Endocrinology,North-Metro,North,Champions (Tier 1 Key Opinion Leaders),2,162,1181533.56
+HCP-0643,Dr. Daniel Stein,Oncology,East-Atlantic,East,Low-Volume Prescribers,9,117,832727.51
+HCP-0644,Dr. Candice Smith,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),7,151,1320093.46
+HCP-0645,Dr. Zachary Allen,Cardiology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),4,156,1293193.6
+HCP-0646,Dr. Douglas Patterson,Neurology,North-Lakes,North,High-Value Specialty Prescribers,1,134,1120678.63
+HCP-0647,Dr. Christina Allen,Endocrinology,East-TriState,East,Loyal High-Volume Prescribers,1,147,1083585.52
+HCP-0648,Dr. Robert Beck,Internal Medicine,North-Valley,North,Potential Growth Prescribers,3,154,1044390.52
+HCP-0649,Dr. Christopher Villegas,Cardiology,North-Lakes,North,At-Risk / Lapsing Prescribers,10,137,894676.26
+HCP-0650,Dr. Carlos Fox,Endocrinology,East-Appalachia,East,High-Value Specialty Prescribers,1,130,1091965.8
+HCP-0651,Dr. William Mcneil,Cardiology,West-Northwest,West,Low-Volume Prescribers,1,133,895155.13
+HCP-0652,Dr. Angela Myers,Cardiology,East-Atlantic,East,Low-Volume Prescribers,8,114,782661.6
+HCP-0653,Dr. Theodore Reid,Internal Medicine,West-BayArea,West,High-Value Specialty Prescribers,6,134,1091565.01
+HCP-0654,Dr. Tina King,Internal Medicine,West-Pacific,West,Loyal High-Volume Prescribers,2,154,1156624.67
+HCP-0655,Dr. Allen Kramer,Oncology,West-Desert,West,Low-Volume Prescribers,1,142,927211.03
+HCP-0656,Dr. Michael Quinn,Cardiology,West-BayArea,West,Low-Volume Prescribers,7,114,698284.55
+HCP-0657,Dr. Courtney Ingram,Endocrinology,West-Desert,West,Loyal High-Volume Prescribers,1,161,1060860.25
+HCP-0658,Dr. Jill Cook,Neurology,East-NewEngland,East,Potential Growth Prescribers,3,149,973943.91
+HCP-0659,Dr. Bradley Payne,Endocrinology,East-Appalachia,East,High-Value Specialty Prescribers,3,139,1069868.7
+HCP-0660,Dr. Lisa Thompson,Cardiology,North-Central,North,Potential Growth Prescribers,3,158,1044521.68
+HCP-0661,Dr. Kimberly Marshall,Oncology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),8,155,1201179.73
+HCP-0662,Dr. Heather Welch,Family Medicine,North-Plains,North,Low-Volume Prescribers,2,138,911984.03
+HCP-0663,Dr. Lisa Brown,Family Medicine,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,163,1349130.57
+HCP-0664,Dr. Kimberly Ellis,Cardiology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),3,171,1497610.44
+HCP-0665,Dr. Kelly Williams,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,1,129,982196.08
+HCP-0666,Dr. James Williams,Endocrinology,East-Appalachia,East,High-Value Specialty Prescribers,4,142,1243123.12
+HCP-0667,Dr. Sarah Robertson,Oncology,West-Rockies,West,High-Value Specialty Prescribers,2,138,1057518.74
+HCP-0668,Dr. Veronica Daniels,Family Medicine,East-TriState,East,High-Value Specialty Prescribers,2,128,1148210.67
+HCP-0669,Dr. Jon Mullins,Cardiology,East-TriState,East,Champions (Tier 1 Key Opinion Leaders),2,159,1412866.97
+HCP-0670,Dr. James Kelly,Cardiology,North-Metro,North,Low-Volume Prescribers,3,116,846789.01
+HCP-0671,Dr. Kimberly Glenn,Oncology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),3,155,1406209.99
+HCP-0672,Dr. Martin Martinez,Family Medicine,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),1,157,1276793.15
+HCP-0673,Dr. Micheal Preston,Internal Medicine,South-Piedmont,South,Potential Growth Prescribers,7,136,1025038.96
+HCP-0674,Dr. Julia Kline,Oncology,South-Delta,South,Potential Growth Prescribers,1,162,994474.81
+HCP-0675,Dr. Paul Beltran,Family Medicine,North-Metro,North,Potential Growth Prescribers,4,152,1052550.63
+HCP-0676,Dr. Tyler Jimenez,Family Medicine,East-Metro,East,Potential Growth Prescribers,1,142,971962.32
+HCP-0677,Dr. Sandra Stone,Neurology,East-Appalachia,East,At-Risk / Lapsing Prescribers,3,129,986993.39
+HCP-0678,Dr. Laurie Acosta,Neurology,West-BayArea,West,Low-Volume Prescribers,1,114,952420.53
+HCP-0679,Dr. Christian Morrison,Family Medicine,South-Piedmont,South,At-Risk / Lapsing Prescribers,3,138,865928.54
+HCP-0680,Dr. Lynn Gardner,Oncology,East-Metro,East,Potential Growth Prescribers,5,136,1034007.09
+HCP-0681,Dr. Manuel Miller,Family Medicine,North-Plains,North,Potential Growth Prescribers,9,150,1021729.27
+HCP-0682,Dr. Donna Parker,Endocrinology,East-NewEngland,East,Low-Volume Prescribers,1,124,904547.1
+HCP-0683,Dr. Carrie Simmons,Internal Medicine,North-Lakes,North,Low-Volume Prescribers,16,122,854080.59
+HCP-0684,Dr. Hannah Bell,Internal Medicine,West-Northwest,West,At-Risk / Lapsing Prescribers,3,118,1046335.8
+HCP-0685,Dr. Bobby Berg,Cardiology,North-Plains,North,Low-Volume Prescribers,2,134,693182.56
+HCP-0686,Dr. Michael Bolton,Family Medicine,North-Valley,North,Potential Growth Prescribers,7,152,1025118.0
+HCP-0687,Dr. Joshua Whitney,Family Medicine,South-Highlands,South,Potential Growth Prescribers,2,144,998334.88
+HCP-0688,Dr. Stacy Jones,Oncology,West-BayArea,West,Low-Volume Prescribers,6,120,907030.98
+HCP-0689,Dr. Dana Cox,Neurology,East-Atlantic,East,Low-Volume Prescribers,8,114,820689.24
+HCP-0690,Dr. Laurie Shelton,Neurology,East-Metro,East,Low-Volume Prescribers,7,128,855771.13
+HCP-0691,Dr. Stephanie Thomas,Cardiology,South-Piedmont,South,At-Risk / Lapsing Prescribers,15,130,994176.24
+HCP-0692,Dr. Cathy Harrington,Family Medicine,South-Gulf,South,Loyal High-Volume Prescribers,2,148,1172054.43
+HCP-0693,Dr. Austin Jones,Endocrinology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),1,183,1329075.05
+HCP-0694,Dr. Kimberly Diaz,Internal Medicine,North-Lakes,North,High-Value Specialty Prescribers,1,143,1323420.39
+HCP-0695,Dr. Patrick Bradley,Family Medicine,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,150,1339045.33
+HCP-0696,Dr. Cassie Shelton,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),4,173,1383727.57
+HCP-0697,Dr. Stacy Watson,Cardiology,East-Atlantic,East,Low-Volume Prescribers,4,122,880443.42
+HCP-0698,Dr. Kathryn Berry,Oncology,West-Desert,West,Potential Growth Prescribers,6,146,948725.8
+HCP-0699,Dr. Alyssa Sanders,Neurology,South-Gulf,South,Loyal High-Volume Prescribers,2,150,1145785.05
+HCP-0700,Dr. Debra Wright,Endocrinology,East-Appalachia,East,Low-Volume Prescribers,1,125,1012340.1
+HCP-0701,Dr. Daniel Fitzgerald,Cardiology,North-Valley,North,Loyal High-Volume Prescribers,1,154,1120496.53
+HCP-0702,Dr. Victor Hughes,Cardiology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),1,173,1183245.56
+HCP-0703,Dr. Anna Green,Endocrinology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),1,154,1255891.79
+HCP-0704,Dr. Jorge Griffin,Internal Medicine,West-Desert,West,At-Risk / Lapsing Prescribers,9,168,926883.23
+HCP-0705,Dr. Wendy Mitchell,Endocrinology,West-BayArea,West,At-Risk / Lapsing Prescribers,3,150,901441.24
+HCP-0706,Dr. Sabrina Henry,Oncology,North-Lakes,North,Champions (Tier 1 Key Opinion Leaders),6,154,1193295.59
+HCP-0707,Dr. David Farrell,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),8,163,1361104.41
+HCP-0708,Dr. Shannon Roach,Endocrinology,West-Northwest,West,Loyal High-Volume Prescribers,2,157,1152574.38
+HCP-0709,Dr. Sean Miller,Cardiology,North-Lakes,North,Low-Volume Prescribers,13,128,865942.78
+HCP-0710,Dr. Evelyn Bruce,Neurology,West-Northwest,West,Potential Growth Prescribers,2,138,1031659.68
+HCP-0711,Dr. Luis Reed,Oncology,East-Atlantic,East,Low-Volume Prescribers,2,110,680645.96
+HCP-0712,Dr. Calvin Daniels,Cardiology,North-Lakes,North,Low-Volume Prescribers,2,131,949528.35
+HCP-0713,Dr. Patricia York,Family Medicine,West-Rockies,West,Loyal High-Volume Prescribers,4,146,1147365.19
+HCP-0714,Dr. Jennifer Ho,Cardiology,West-Rockies,West,Champions (Tier 1 Key Opinion Leaders),2,150,1261611.77
+HCP-0715,Dr. Dana Leon,Endocrinology,West-BayArea,West,Low-Volume Prescribers,9,129,763429.99
+HCP-0716,Dr. William Martinez,Neurology,East-Atlantic,East,Low-Volume Prescribers,2,117,912813.56
+HCP-0717,Dr. James Taylor,Neurology,East-TriState,East,Low-Volume Prescribers,6,126,888142.42
+HCP-0718,Dr. Kristy Johnson,Cardiology,North-Metro,North,Loyal High-Volume Prescribers,1,154,1137736.03
+HCP-0719,Dr. Angela Wood,Oncology,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),1,161,1213110.42
+HCP-0720,Dr. Linda Arnold,Oncology,East-TriState,East,Low-Volume Prescribers,1,146,869708.3
+HCP-0721,Dr. Cheryl Miller,Family Medicine,North-Central,North,Champions (Tier 1 Key Opinion Leaders),2,173,1400461.23
+HCP-0722,Dr. Kyle Key,Endocrinology,South-Highlands,South,Loyal High-Volume Prescribers,2,150,1157665.46
+HCP-0723,Dr. Jennifer Fox,Family Medicine,North-Valley,North,Potential Growth Prescribers,2,154,1006429.64
+HCP-0724,Dr. Kayla Morrow,Endocrinology,West-Desert,West,Potential Growth Prescribers,7,160,1004721.7
+HCP-0725,Dr. Charles Compton,Family Medicine,East-TriState,East,High-Value Specialty Prescribers,2,139,1095012.03
+HCP-0726,Dr. Dawn Cole,Neurology,East-NewEngland,East,At-Risk / Lapsing Prescribers,6,134,745163.85
+HCP-0727,Dr. Erin Cooper,Family Medicine,East-Metro,East,High-Value Specialty Prescribers,1,138,1117060.31
+HCP-0728,Dr. Natalie Deleon,Cardiology,West-Northwest,West,Low-Volume Prescribers,4,124,934877.37
+HCP-0729,Dr. Danielle White,Endocrinology,East-TriState,East,High-Value Specialty Prescribers,6,139,1193566.41
+HCP-0730,Dr. Tammy Reynolds,Oncology,East-TriState,East,Loyal High-Volume Prescribers,1,153,1064330.37
+HCP-0731,Dr. Renee Brown,Neurology,East-TriState,East,High-Value Specialty Prescribers,14,139,1259568.43
+HCP-0732,Dr. David Hernandez,Cardiology,East-TriState,East,At-Risk / Lapsing Prescribers,3,129,1010172.12
+HCP-0733,Dr. Fred Morris,Family Medicine,North-Metro,North,At-Risk / Lapsing Prescribers,5,130,943443.69
+HCP-0734,Dr. Jenna Reed,Family Medicine,South-Piedmont,South,At-Risk / Lapsing Prescribers,6,142,929685.48
+HCP-0735,Dr. Shelley Jacobson,Family Medicine,West-Pacific,West,Loyal High-Volume Prescribers,5,151,1108987.17
+HCP-0736,Dr. Meghan King,Endocrinology,East-Appalachia,East,Loyal High-Volume Prescribers,1,145,1069625.97
+HCP-0737,Dr. Cynthia Pierce,Family Medicine,South-Piedmont,South,Loyal High-Volume Prescribers,5,147,1101703.29
+HCP-0738,Dr. David Turner,Oncology,East-TriState,East,Potential Growth Prescribers,1,135,1002845.62
+HCP-0739,Dr. Amanda Shaw,Internal Medicine,West-Pacific,West,Loyal High-Volume Prescribers,7,168,1104695.8
+HCP-0740,Dr. Gary David,Internal Medicine,South-Piedmont,South,Low-Volume Prescribers,2,134,931783.3
+HCP-0741,Dr. Eric Hopkins,Internal Medicine,North-Lakes,North,Champions (Tier 1 Key Opinion Leaders),2,165,1237066.68
+HCP-0742,Dr. Jennifer Jacobs,Endocrinology,North-Metro,North,Low-Volume Prescribers,1,130,704003.23
+HCP-0743,Dr. Megan Elliott,Oncology,South-Delta,South,Low-Volume Prescribers,2,156,926855.22
+HCP-0744,Dr. Marcia Johnson,Neurology,East-TriState,East,Potential Growth Prescribers,1,160,1052191.27
+HCP-0745,Dr. Brandon May,Neurology,South-Highlands,South,Potential Growth Prescribers,2,144,1007820.72
+HCP-0746,Dr. Barbara Curtis,Oncology,South-Delta,South,Potential Growth Prescribers,3,159,979129.74
+HCP-0747,Dr. Katie Butler,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),8,170,1272328.74
+HCP-0748,Dr. Danielle Jimenez,Endocrinology,East-TriState,East,High-Value Specialty Prescribers,2,124,1094084.02
+HCP-0749,Dr. Courtney Roberts,Endocrinology,South-Highlands,South,At-Risk / Lapsing Prescribers,10,132,925875.65
+HCP-0750,Dr. Sue Webb,Neurology,West-BayArea,West,High-Value Specialty Prescribers,1,136,1096245.21
+HCP-0751,Dr. Linda Cohen,Endocrinology,South-Highlands,South,Champions (Tier 1 Key Opinion Leaders),6,163,1179590.84
+HCP-0752,Dr. Kenneth Jones,Cardiology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),2,161,1352112.44
+HCP-0753,Dr. Brian Gonzales,Neurology,South-Piedmont,South,Loyal High-Volume Prescribers,2,152,1153787.45
+HCP-0754,Dr. Todd Harris,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,1,127,979726.14
+HCP-0755,Dr. Catherine Edwards,Endocrinology,West-Pacific,West,Champions (Tier 1 Key Opinion Leaders),1,167,1196145.63
+HCP-0756,Dr. Jennifer Gross,Internal Medicine,East-Appalachia,East,Champions (Tier 1 Key Opinion Leaders),3,156,1243157.63
+HCP-0757,Dr. Michelle Hester,Family Medicine,North-Metro,North,Potential Growth Prescribers,3,143,1050633.9
+HCP-0758,Dr. David Wood,Cardiology,North-Metro,North,High-Value Specialty Prescribers,2,138,1061704.8
+HCP-0759,Dr. Anna Flores,Endocrinology,West-Northwest,West,Low-Volume Prescribers,1,124,756788.55
+HCP-0760,Dr. Steven Adams,Oncology,West-Northwest,West,Low-Volume Prescribers,2,122,714969.52
+HCP-0761,Dr. John Davis,Cardiology,West-Northwest,West,Low-Volume Prescribers,2,129,921249.45
+HCP-0762,Dr. Kelly Cruz,Neurology,North-Central,North,Loyal High-Volume Prescribers,3,161,1125745.66
+HCP-0763,Dr. Christina Wright,Neurology,South-Gulf,South,Potential Growth Prescribers,6,142,1035467.44
+HCP-0764,Dr. Michelle Moore,Oncology,South-Coast,South,Champions (Tier 1 Key Opinion Leaders),3,183,1243028.52
+HCP-0765,Dr. Mark Lane,Internal Medicine,East-Atlantic,East,Low-Volume Prescribers,22,119,827961.12
+HCP-0766,Dr. Larry Hines,Oncology,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),2,161,1290270.89
+HCP-0767,Dr. Tyrone Robertson,Internal Medicine,South-Gulf,South,Low-Volume Prescribers,1,138,860904.6
+HCP-0768,Dr. Victor Parker,Neurology,North-Lakes,North,Potential Growth Prescribers,3,138,996628.36
+HCP-0769,Dr. Andrew Landry,Cardiology,East-TriState,East,Loyal High-Volume Prescribers,6,152,1125956.45
+HCP-0770,Dr. William Levy,Cardiology,East-Atlantic,East,Low-Volume Prescribers,1,110,905986.61
+HCP-0771,Dr. Jason Gomez,Internal Medicine,North-Lakes,North,At-Risk / Lapsing Prescribers,5,135,919739.08
+HCP-0772,Dr. Brent Simpson,Endocrinology,South-Gulf,South,At-Risk / Lapsing Prescribers,7,133,815592.12
+HCP-0773,Dr. Nicole Pena,Family Medicine,South-Highlands,South,Loyal High-Volume Prescribers,1,149,1113712.9
+HCP-0774,Dr. Thomas Herrera,Internal Medicine,East-Metro,East,Champions (Tier 1 Key Opinion Leaders),2,149,1317136.04
+HCP-0775,Dr. Melanie Jordan,Cardiology,East-NewEngland,East,High-Value Specialty Prescribers,5,133,1261929.98
+HCP-0776,Dr. Nicole Luna,Family Medicine,East-NewEngland,East,Champions (Tier 1 Key Opinion Leaders),3,169,1307046.62
+HCP-0777,Dr. Kathryn Diaz,Internal Medicine,West-BayArea,West,Potential Growth Prescribers,5,152,1008041.03
+HCP-0778,Dr. Richard Hudson,Oncology,North-Plains,North,Low-Volume Prescribers,1,154,917613.43
+HCP-0779,Dr. James Tran,Endocrinology,South-Piedmont,South,High-Value Specialty Prescribers,5,139,1271550.87
+HCP-0780,Dr. Charles Gordon,Internal Medicine,West-Northwest,West,Low-Volume Prescribers,8,117,689620.26
+HCP-0781,Dr. Kathy Ramirez,Neurology,North-Plains,North,Potential Growth Prescribers,6,144,998813.73
+HCP-0782,Dr. Veronica Becker,Internal Medicine,South-Gulf,South,High-Value Specialty Prescribers,5,135,1104245.44
+HCP-0783,Dr. David Hester,Internal Medicine,South-Piedmont,South,Potential Growth Prescribers,1,140,1008119.36
+HCP-0784,Dr. Phillip Norton,Endocrinology,North-Central,North,High-Value Specialty Prescribers,7,142,1094591.32
+HCP-0785,Dr. Matthew Mcmillan,Endocrinology,South-Highlands,South,High-Value Specialty Prescribers,3,141,1091401.83
+HCP-0786,Dr. Kari Gonzalez,Endocrinology,North-Valley,North,Champions (Tier 1 Key Opinion Leaders),6,158,1196734.48
+HCP-0787,Dr. William Porter,Internal Medicine,West-BayArea,West,Low-Volume Prescribers,8,121,875329.36
+HCP-0788,Dr. Brandon Taylor,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),2,173,1333518.73
+HCP-0789,Dr. Mason Wells,Cardiology,East-NewEngland,East,Low-Volume Prescribers,13,118,780134.45
+HCP-0790,Dr. Stephen Obrien,Endocrinology,East-Metro,East,Potential Growth Prescribers,7,133,1018053.01
+HCP-0791,Dr. Zachary Murphy,Oncology,South-Piedmont,South,At-Risk / Lapsing Prescribers,13,132,918402.39
+HCP-0792,Dr. Christie Martin,Endocrinology,East-Atlantic,East,Low-Volume Prescribers,2,123,940573.57
+HCP-0793,Dr. Vicki Stevenson,Family Medicine,North-Lakes,North,High-Value Specialty Prescribers,6,135,1264451.64
+HCP-0794,Dr. Kevin Rogers,Endocrinology,South-Piedmont,South,Loyal High-Volume Prescribers,2,144,1058822.9
+HCP-0795,Dr. Maria Patel,Neurology,East-Appalachia,East,Low-Volume Prescribers,1,128,972198.7
+HCP-0796,Dr. Jeanne Evans,Endocrinology,West-Rockies,West,High-Value Specialty Prescribers,1,142,1229909.52
+HCP-0797,Dr. Lisa Richardson,Cardiology,North-Lakes,North,Champions (Tier 1 Key Opinion Leaders),10,144,1187706.24
+HCP-0798,Dr. Emily Whitney,Internal Medicine,East-Metro,East,Low-Volume Prescribers,2,139,867598.19
+HCP-0799,Dr. Brandy Robles,Oncology,North-Central,North,Champions (Tier 1 Key Opinion Leaders),1,168,1224954.64
+HCP-0800,Dr. Jessica Watts,Cardiology,West-BayArea,West,Potential Growth Prescribers,3,142,951964.19

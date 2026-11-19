@@ -1,0 +1,15 @@
+drug_id,drug_name,therapeutic_area,standard_unit_price
+DRG-CARD-001,Cardioguard (Metoprolol),Cardiology,75.01
+DRG-CARD-002,Lipidex (Atorvastatin),Cardiology,55.0
+DRG-CARD-003,Vasotens (Amlodipine),Cardiology,60.0
+DRG-CARD-004,Coroxin (Apixaban),Cardiology,360.05
+DRG-DIAB-001,Glucoprime (Metformin),Diabetes,38.0
+DRG-DIAB-002,Insuluxe (Insulin Glargine),Diabetes,295.05
+DRG-DIAB-003,Glycaheal (Semaglutide),Diabetes,750.08
+DRG-NEUR-001,Neuroflux (Donepezil),Neurology,94.99
+DRG-NEUR-002,Synapsis (Levetiracetam),Neurology,124.99
+DRG-NEUR-003,Migrarelief (Erenumab),Neurology,520.01
+DRG-NEUR-004,Cerebrox (Memantine),Neurology,104.99
+DRG-ONC-001,Oncozap (Pembrolizumab),Oncology,1620.31
+DRG-ONC-002,Tumorkill (Trastuzumab),Oncology,1279.86
+DRG-ONC-003,Cellstop (Lenalidomide),Oncology,859.86

@@ -1,0 +1,21 @@
+territory,region,performance_tier
+East-Appalachia,East,Normal Performance
+East-NewEngland,East,Normal Performance
+South-Highlands,South,Normal Performance
+West-BayArea,West,Normal Performance
+West-Rockies,West,Normal Performance
+West-Pacific,West,Normal Performance
+South-Piedmont,South,Normal Performance
+West-Northwest,West,Normal Performance
+East-TriState,East,Normal Performance
+South-Delta,South,Underperforming (Lagging)
+North-Metro,North,Normal Performance
+North-Plains,North,Underperforming (Lagging)
+West-Desert,West,Underperforming (Lagging)
+East-Atlantic,East,Normal Performance
+East-Metro,East,Normal Performance
+South-Coast,South,Normal Performance
+South-Gulf,South,Normal Performance
+North-Lakes,North,Normal Performance
+North-Central,North,Normal Performance
+North-Valley,North,Normal Performance
