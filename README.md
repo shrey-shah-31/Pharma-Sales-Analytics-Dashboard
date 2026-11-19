@@ -161,7 +161,7 @@ The Jupyter Notebook executes a complete analysis workflow:
 - **Underperformer Flag**: `IF [% of Target Achieved] < 0.70 THEN "CRITICAL: Underperforming (<70%)" ELSE "ON TARGET" END`
 - **Dynamic Top Drug LOD**: `{ FIXED : MAX(IF { FIXED [drug_name]: SUM([net_sales]) } = { FIXED: MAX({ FIXED [drug_name]: SUM([net_sales]) }) } THEN [drug_name] END) }`
 
-> **Interactive Mockup**: Open [`dashboard/dashboard_preview.html`](dashboard/dashboard_preview.html) in any browser to interact with the live filterable dashboard preview.
+> **Interactive Mockup**: Open [`[dashboard/dashboard_preview.html](https://htmlpreview.github.io/?https://raw.githubusercontent.com/shrey-shah-31/Pharma-Sales-Analytics-Dashboard/refs/heads/main/dashboard_preview.html)`](dashboard/dashboard_preview.html) in any browser to interact with the live filterable dashboard preview.
 
 ---
 
