@@ -237,33 +237,8 @@ PHARMA COMMERCIAL SALES ANALYTICS -- RIGOROUS VERIFICATION SUITE
 ================================================================================
 ```
 
----
 
-## 🚀 Quick Start Guide
 
-### Prerequisites
-- Python 3.10+
-- `pip install numpy pandas matplotlib seaborn faker`
-
-### 1. Regenerate Dataset (Optional)
-```bash
-python scripts/generate_data.py
-```
-
-### 2. Run Full Analysis & Export Tableau CSVs
-```bash
-python scripts/run_analysis_pipeline.py
-```
-
-### 3. Run Jupyter Notebook
-```bash
-jupyter notebook notebooks/pharma_sales_analysis.ipynb
-```
-
-### 4. Execute SQL Queries
-Import `pharma_sales.csv` into MySQL 8.0+ and run `sql/queries.sql`.
-
----
 
 ## 📜 License
 This project is open-source under the MIT License.
